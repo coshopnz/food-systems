@@ -1,0 +1,1046 @@
+
+Public Health Advisory Committee
+
+Rebalancing our food system
+
+May 2024
+
+
+
+
+
+
+
+
+
+Suggested citation: Public Health Advisory Committee. 2024. Rebalancing our food system.Wellington: Ministry of Health.
+Published in May 2024 by the Ministry of HealthPO Box 5013, Wellington 6140, New Zealand
+ISBN 978-1-991075-69-7 (online)HP 9066
+This document is available at health.govt.nz
+
+This work is licensed under the Creative Commons Attribution 4.0 International licence. In essence, you are free to: share ie, copy and redistribute the material in any medium or format; adapt ie, remix, transform and build upon the material. You must give appropriate credit, provide a link to the licence and indicate if changes were made.
+
+
+Foreword
+Public Health Advisory Committee 
+The Public Health Advisory Committee (PHAC) is an expert advisory committee established under the Pae Ora (Healthy Futures) Act 2022. Its role is to provide independent, public-facing and evidence-based public health advice to the Minister of Health, the Public Health Agency, Te Whatu Ora and Te Aka Whai Ora. 
+In January 2023 the Minister of Health asked the Committee to prepare advice on the food ‘system’: all of the structures and processes between the production of food and eating or drinking it. The Minister recognised that food is one of the absolute necessities of life, and of quality of life, yet measures available to ensure that the food system delivers on these requirements are sometimes missing, inadequate or overly complicated.
+All New Zealanders should be able to access the food they need for their health and wellbeing, at all times. Food plays a pivotal role in shaping the wellbeing and health of all New Zealanders. It not only provides essential nourishment but also fosters connections to culture, communities, and the environment. It enables us to show manaakitanga, celebrate who we are, and is central to the ways many of us make a living. 
+For public health, food is pivotal for building health, preventing disease, and supporting recovery. 
+The reality, however, is that too many of us do not have access to the food we need. The impacts of COVID-19 and recent climate events have brought sharp attention to how our food system is – and has been for a long time – failing us. The current food system leads to high rates of chronic disease and food insecurity that make it hard for people to self-determine how they live, learn, work and play. It also exacerbates struggling local economies, climate change, and has other adverse environmental impacts.
+We urgently need to act on our food system. It is not too late, but we need to act now. This report presents a case for change for our food system, and how everyone has their part to play.
+Through the research team at Synergia (a professional services agency specialising in research, evaluation, service design and data analytics), the PHAC engaged with a range of key stakeholders in Aotearoa New Zealand’s food system, including non-government groups, industry, government agencies and academics to inform its work. The findings from this engagement have been published with this report.
+The PHAC also held two stakeholder workshops in September 2023 to gather additional perspectives and insights from key stakeholders. An in-person workshop was held in Wellington, and a remote session was held online. 
+
+The PHAC acknowledges the breadth of work that has been undertaken in Aotearoa New Zealand to support an improved food system for better wellbeing and health. There already exists a strong evidence base that highlights the critical impact food has on our lives and many of the solutions that would create the greatest impact. 
+The PHAC has been conscious that much evidence-based advice has already been provided to Governments and has been mindful not to merely replicate this work. Accordingly, the Committee has attempted to approach the food system from a fresh perspective, which we hope will provide some additional insight for the Minister, and we also refer to the work and recommendations of others where appropriate.
+
+
+
+
+Kevin HagueChair
+
+Public Health Advisory Committee Members 
+Kevin Hague (Chair)
+Associate Professor Sir Collin Tukuitonga [December 2022 to December 2023] 
+Beverly Te Huia
+Associate Professor Jason Gurney  
+Associate Professor Ruth Cunningham  
+Professor Peter Crampton  
+	•	
+Mihi
+Nāu te rourou, nāku te rourou, ka ora te iwi 
+With your food basket and my food basketthe people will thrive
+
+The PHAC would like to thank the many individuals and organisations that contributed valuable ideas and information to this project.
+This report was first commissioned in 2023 by the Hon Dr Ayesha Verrall in her role as Minister of Health.
+In terms of health entities within the Aotearoa New Zealand government, the PHAC has worked closely with the Public Health Agency within Manatū Hauora – Ministry of Health, Te Aka Whai Ora – Māori Health Authority, and Te Whatu Ora – Health Aotearoa New Zealand in the development on this report. 
+The PHAC worked with the Human Rights Commission to help confirm the rights and obligations afforded to New Zealanders in relation to food and health and would like to thank former Human Rights Commissioner Paul Hunt for his input. 
+The Workshop was engaged to support the PHAC to understand how people reason about the food system, and how public narratives influence people’s thinking and reasoning about improvements to the system.  
+Synergia were engaged to lead a series of stakeholder engagements to inform this report, including key informant interviews and stakeholder workshops.
+The PHAC sought information from the Ministry for Primary Industries (MPI) as the lead agency for Aotearoa New Zealand’s food policies and as the steward of Aotearoa New Zealand’s engagement in the joint food regulation system with Australia.
+The PHAC would like to thank Dr Cristina Cleghorn for her expertise and support particularly with the recommended priority actions section of this report. 
+The PHAC would like to thank three experts for reviewing a draft of the report, including Professor Sir Ashley Bloomfield, Professor Cliona Ni Mhurchu and Dr Christina McKerchar.
+The PHAC would like to thank the members of the GeoHealth Lab at the University of Canterbury for providing some of the figures in this report.
+Finally, PHAC would like to thank all the individuals who gave freely of their time to share their perspective over the course of this project, whether in key informant interviews, stakeholder workshops, or through other means.  Ngā mihi nui ki a koutou.
+
+Executive Summary 
+Food is one of the most important building blocks of our health and wellbeing. It physically nourishes us but also connects us to our culture, to our environment and to the people we care for. No matter where we live or what type of food we love, it’s important to many of us that we are able to access the food we enjoy and need both to nourish and care for ourselves and others. 
+However, our current food system - that is the many parts that together ensure all people, now and into the future, have good food to eat when and how they need it, is out of balance. It is an imbalance that has damaged a core building block of our health and wellbeing.
+We need leaders in government and the public and private sectors to make sensible decisions about our food system for the long-term wellbeing of our population in Aotearoa New Zealand. 
+The problem: our food system is out of balance
+Our food system in Aotearoa New Zealand is like an ecosystem. It’s made of many parts, including the government, which regulates food, people who grow and produce food, the food industry, transport, and people who buy, sell, and consume food. These parts need to work together for the whole system to function properly and stay in balance.  
+Right now, across our food ecosystem, things are out of balance. The health of people and the environment is not being prioritised within the food system for a number of reasons this document details. The flow on effect is that only a trickle of healthy affordable nourishing food options are available to many people in the places they live, and a flood of unhealthy food. Within this unbalanced system the greatest weight is placed on food as a commercial product, leaving too many people, including children, hungry and without the nourishing food they need.  Despite Aotearoa New Zealand being a producer of high-quality, nutritious food, the imbalances in the system have meant that eating healthy food is becoming less affordable than unhealthy food over time.  
+
+From The Workshop briefing paper
+“We expect our food system to be dependable and trustworthy, but it is becoming increasingly clear that decisions are being made in food production that affect us all and some experts are beginning to call for changes to protect us … Most experts agree that the health and nutrition that people expect from food, and that parents expect for their children, are being undermined by our [runaway] food system, and there are changes we can make.”
+FrameWorks Institute, 2006
+
+
+It has become clear that while our methods of producing food have ensured good financial returns for some communities, they threaten systems that are vital to our wellbeing and that of future generations. From the pollution of our land, air and water, through to our producing and importing highly processed foods that weaken farming and food-growing traditions and skills, such imbalances are causing significant social, environmental, economic and health harms for many people.
+Another imbalance in the food system is the burden placed on Māori. Through the process of colonisation in Aotearoa New Zealand, Māori ways of life and culture were deeply undermined. In particular land loss and dislocation of people from their culture continue to do enormous harm to kai-related traditions and by extension many of the practices that are the foundation of Māori wellbeing. The pollution of our land, freshwater and marine environments including by our means of producing food, further tilts the scales towards harm for Māori in particular - compromising the quality and safety of some traditional kai gathering.
+More than half of Aotearoa New Zealand’s greenhouse gas emissions are from our current food system, tipping us further towards an unliveable planet through climate disruption. The current food production system, that contributes disproportionately to carbon emissions is now also being challenged by climate disruption, including adverse weather events and changing climatic conditions.
+
+From The Workshop briefing paper
+“We have a runaway food system that means the way that food is produced and delivered makes too many people hungry – one in eight people in this country experience hunger because they cannot get enough food or enough nutritious food. Hunger leads to many health problems over the longer term, including diabetes, cancer and heart disease. People in policy need to take control of the food system and ensure we all have access to the food we need so no one goes hungry.”
+Hendricks et al., 2018
+
+Our food system is predominantly tilted towards pursuing economic goals, and prioritises food as a commodity product, with the consequence that it is failing to meet not only our current needs, but also our aspirations for future generations and for the ability of the natural world to sustain us.
+People in government and in the food industry can work alongside communities, rebalance our food system and repair one of the core building blocks of our health. Communities can work together with food retailers, regulators like local government, food growers, and tangata whenua so that nutritious food is grown, gathered, sold, and shared in ways that means everyone gets what they need.
+
+The shared values underpinning this report
+The United Nations human rights framework, which Aotearoa New Zealand observes as international law, recognises that everybody has a right to nutritious food in sufficient quantity, produced and distributed in a way that enables them to make connections with each other and their communities. In this way, a fundamental human right to food means that it cannot be viewed (as it too often is) as merely a consumer product or commodity.
+For Māori, Te Tiriti o Waitangi also guarantees protection of collective rights when it comes to food. Food growing, gathering, preparing, eating, and sharing encompass fundamental relationships with te taiao (the natural world), tino rangatiratanga (self-determination or sovereignty), handing down of mātauranga (Māori knowledge), and strengthening of connections to whakapapa (ancestry).
+Making, sharing and using food can bring out the best in us as people. We can seek to support and empower other people in their struggle to achieve food security, and bring to bear wisdom, pragmatism, care for the environment, creativity, and self-direction. Those who produce food can leave a legacy of a food ecosystem that thrives, and that can support the future wellbeing of generations to come.  
+At a number of points in our report we have found it helpful to consider the food system through the need to protect health and wellbeing of children. This has been primarily for two reasons:
+Public health approaches always endeavour to intervene as far as possible ‘upstream’, to ensure maximum effectiveness. There is now a vast body of evidence, which continues to grow, that the experience of children (particularly early in life) is critical not only to their own health and wellbeing, but also to subsequent generations. Getting things right for children and Tamariki will ensure that the food system ultimately delivers for everyone.
+All children deserve to be treated fairly and have the same chances to thrive and be healthy, no matter where they live. Yet the building blocks for a healthy life are very unevenly distributed, and many families simply don’t have access to what it takes for a child to be healthy. The right to healthy food for children is supported by the United Nations Convention on the Rights of the Child.1 It is particularly clear for children that the human right to be eating healthy food cannot be left to individual ‘choices’. We all share the responsibility to create a food system that ensures every child is well-fed.
+Research has established that there is virtually nowhere in the places children learn, play, and live where they are not being shown advertising for unhealthy food while there is a trickle of healthy food options in their neighbourhoods. While it is worse in the neighbourhoods where people have less wealth, all children are being subject to this spotlighting of unhealthy food.  
+We need to set the stage for health for all children and stop advertising to our children.
+
+
+From The Workshop briefing paper
+“Unhealthy food options are in the spotlight. Aggressive advertising aimed at children and fun promotions in supermarkets cast unhealthy options in a starring role in children’s minds. Healthier food options get lost in the background or are pushed entirely offstage. We need to set the stage for health for all children.”
+L’Hôte et al., 2021
+
+Across different communities including Māori and Pacific communities, parents want to ensure that their kids have access to good nutritious food that works for them and their families. However, people and organisations in the food industry are exploiting children’s health, making increasingly bigger profits from placing highly processed food centre stage in our children’s world. Parents and caregivers are excluded from the conversation. We can work together, and demand children are no longer exploited.
+Our shared vision for a rebalanced food system
+Our food system needs to be transformed to nurture people in the different ways that matter — as people who eat, grow, produce, or work with food. The rebalanced system needs to foster wellbeing, protect and restore the environment, and elevate mātauranga Māori and shared learning.
+
+From The Workshop briefing paper
+“Māori understanding of kai, and a revitalisation of Māori kai sovereignty is a core part of the vision for local food systems and presents a different worldview to linear industrial food systems.” 
+Cameron, 2023
+
+In a review of locally-led reports from 30 organisations in Aotearoa New Zealand, Cameron (2023)2 shared a vision of what a better food system might look like.  The PHAC shares this vision, and elements of it echo throughout this report:
+Local – by locals for locals, strengthening community resilience.
+Affordable – everyone can afford nutritious food.
+Connected – people are connected to each other, their food, and environment via food.
+Healthy – healthy food environments lead to healthy people. 
+Regenerative – nutritious for people, protects and supports te taiao.
+Resilient – can withstand and recover swiftly after crises.
+Short-term decisions made by people in government and people in the food system have long-term consequences. There are changes that people in government and the food system can make now to regain control of this runaway system — changes that will ensure we have a stable, healthy food system for our children and grandchildren. 
+The solutions that will make a real difference 
+Food is produced in a system of many parts, and it is the structure and functioning of this system that drives people’s food-related health and wellbeing over individual choice and behaviour. All aspects of the food system need to be considered to overcome food-related harms.
+
+From The Workshop briefing paper
+“Just like we need a power grid that delivers electricity to all the parts of our country, we also need a grid that allows healthy food to move to all parts of our country. Right now, that grid is well-developed in some areas and patchy or even non-existent in others. For example, some people lack good nearby grocery stores, so the food they need can’t reach them.” 
+Hendricks et al., 2018
+
+Most fundamentally we need a unified food system, with a focus that shifts to ensure that hunger in all its forms is eliminated and the human right to be eating healthy food is respected, particularly for Māori, Pacific peoples and for communities who experience the greatest marginalisation. Both Pae Tū: Hauora Māori Strategy and Te Mana Ola: The Pacific Health Strategy stress the importance of healthy food environments for healthy and empowered communities.
+This report highlights several examples where school communities, local councils, hapū and iwi came together to repair their local part of the food system, with a view to improving local access to nutritious food. Working together, people who are hungry, those who grow food, own land, and those who fund services designed a solution to address a lack of affordable food, the trickle of nutritious options available, and harms to the whenua from a runaway food production system. For example, in Lower Hutt a series of local food farms, based in care for the land and ecosystem, provide good work, connection points for the community, and food to anyone who needs it.
+Key to rebalancing the food system is the restoration of Iwi and community control of local parts of the food system. Communities want to have a say in their food environment — for example, the use of green spaces, the availability and location of food outlets, supermarkets, etc. Access to spaces to grow and collect food for all people (a public/common good) is fundamental to a functioning food system and people’s health and wellbeing.
+Alongside this community control, government, at both national and local levels, has a responsibility to create physical, social and economic environments that support the aspirations of communities. 
+Effective policy, practice, and regulatory interventions to improve food-related health have been identified — for example, restricting food advertising to children, the use of directed taxes on specific foods, mandatory front-of-pack nutrition labelling, and placement and type of food outlets.
+People who grow food at a larger scale reflect a diverse group of people and interests. Many people who farm and grow food want to do so responsibly and contribute to the health of people and the environment. We see making more direct connections between people who grow food and those who eat it as an important and useful strategy.
+Our recommended priority actions
+We need an all-of-government and all-of-community response to address the challenges within our food system.  Our five broad recommendations for rebalancing our food system toward one that sustainably nurtures our health are:
+	•	That those involved in shaping our food system create and/or further develop a unified food system for all New Zealanders.
+That those involved in supporting our food system enable local communities including iwi and Pacific communities to ensure that local parts of the food system meet their needs and aspirations.
+That our central and local government take action and use legislation, policy & regulation levers to create and foster healthy food environments for all New Zealanders.
+That those involved in our food system take action to ensure all New Zealanders have secure access to enough good food.
+That those involved in shaping our food system ensure that the work of transforming the food system is accompanied by a programme of data collection, research, monitoring and surveillance.
+These five broad recommendations are divided into 13 specific recommendations at the end of this report.
+
+
+
+
+
+
+
+
+Contents of this report
+
+Foreword	i
+Mihi	iii
+Executive Summary	iv
+Evidence Used To Inform This Report	1
+Values Underpinning This Report	2
+All New Zealanders have a right to food for wellbeing	2
+Our food system should create a legacy of health and wellbeing for future generations	3
+Our food system should protect and care for people and the environment	4
+Everyone should have the same access to the healthy food they need	5
+Vision for Aotearoa New Zealand:  A food system that works for everyone	6
+Our Food System in Aotearoa  New Zealand	7
+Food in Te Ao Māori	8
+The evolution of our food system	8
+Current governance and rule-setting	10
+The Health Imperative for Change	12
+Flood of unhealthy food drives poor health outcomes	12
+Our food environments drive poor access to healthy food	13
+Food insecurity leads to health harm	14
+Our out-of-balance food system harms the physical environment, which then harms our health	16
+Climate change and food systems	17
+What Is Getting In The Way?	18
+We have learned to view food as a commodity	18
+Our food system works best for a small number of large businesses	19
+Food is getting more expensive to buy, and unhealthy food is cheaper than healthy food	20
+Access to healthy food is not equal across the country	22
+Aotearoa New Zealand produces an abundance of food, but we export most of it and are not self-sufficient	23
+We have a limited understanding of what New Zealanders are eating	25
+How do we rebalance our food system?	26
+We need to reset the values and purpose of the food system with greatest weight on health and wellbeing	26
+We need to protect the right to healthy food for all New Zealanders	27
+We need to make sure everyone has good access to healthy food	27
+We need to invest in our children	27
+We need to invest earlier in the food cycle for greater return and less future costs	28
+We need strong leadership, coordination, and efficiency	28
+Our Recommended Priority Actions	29
+Broad Recommendations	29
+Roles and Responsibilities	29
+Specific Recommendations	30
+Develop a unified food system for Aotearoa New Zealand	33
+Enable local communities	36
+Eliminate food insecurity for all New Zealanders	45
+References	51
+
+List of Figures
+Figure 1: Total annual cost of type 2 diabetes in New Zealand	12
+Figure 3: Greenhouse gas emissions from different food products	16
+Figure 4: Aotearoa New Zealand’s per capita emission of greenhouse gasses(tonnes of carbon dioxide equivalents)	17
+Figure 5: Food Price Index monthly weighted average prices	20
+Figure 6: Hardship assistance grants 2019-2024, by category	21
+Figure 7: Accessibility to supermarkets in Aotearoa	22
+Figure 8: Food production and consumption in Aotearoa	24
+List of Tables
+Table 1: Food production and consumption in Aotearoa, 2018-2038	24
+
+
+
+Evidence Used To Inform This Report
+Early in the PHAC’s work on food environments, we identified that this was an area of comprehensive and evolving evidence and reporting, both at a national and international level. Rather than attempting to generate new evidence or replicate these reviews, we decided instead to consider and briefly summarise the existing evidence, bring together stakeholder perspectives, and then reinforce and amplify those recommendations that align most strongly with public health. As such, this report should not be seen as a repository for all existing evidence that supports or refutes a given factor or initiative within our food system, since these reviews exist elsewhere.
+The broad evidence used to inform the writing of this report include:
+National and international reports across the food environment spectrum
+Journal articles, particularly systematic and narrative reviews of existing evidence
+Summaries of existing evidence provided by expert commentators (e.g. through NZ Public Health Communication Centre)
+Stakeholder perspectives gathered through key informant interviews and workshops (see below).3
+
+Talking to stakeholders 
+To help PHAC shape its views and recommendations, we engaged Synergia to lead a series of stakeholder engagements across 2023.  These engagements needed to include a wide range of voices from communities, academics, experts, government and industry, to ensure that we had a full picture of the current challenges and opportunities within our food system.
+Synergia spoke with 55 individuals, which built from an initial list of 31 individuals and organisations identified by the PHAC. Interviews were completed over five weeks ending 30 June 2023.  Discussions centred around the PHAC’s vision of access to healthy food for all, with a focus on those things that have and/or could move Aotearoa New Zealand towards that vision.  In addition to these interviews, PHAC hosted two full-day public consultation workshops on the topic of food environments.
+Synergia compiled the observations from these interviews and workshops into key themes and learnings, and these are included throughout this report, within the section that pertains best to that theme or learning. A link to the full Synergia report is on the PHAC website.
+
+
+
+Values Underpinning This Report
+In this section, we briefly outline the core values that underpin the PHAC’s approach to this report. Our first core value is that all New Zealanders have the right to food for wellbeing.  Our second core value is that children should be at the centre of action taken toward improving access to healthy food. Our third core value is that our food system should protect and care for people and the environment rather than food being viewed solely as a commodity. Our fourth core value is that everyone should have the same access to the healthy food they need, which requires us to consider and address the upstream determinants of disparities in access to healthy food.
+All New Zealanders have a right to food for wellbeing
+Equal access to the determinants of good health – like healthy food – is a fundamental human right, supported by the United Nations (UN) Universal Declaration of Human Rights 4 and enforceable under international law.5 
+
+Stakeholders say:
+Healthy food is a right
+There is support for the notion that healthy food is a right. Realising that right is complex.
+Article 2 of te Tiriti o Waitangi represents an existing right. If the promise of rangatiratanga was fully honoured, access to healthy food would improve for Māori.
+Healthy food for children was seen as essential to health, wellbeing, and development.
+Food manufacturers, suppliers, and retailers have a role to play but their values, priorities, and obligations do not always align with public health goals.
+“I’m totally supportive of a rights-based approach. I do think it’s a fundamental human right and it should be the approach we take particularly with our children. A rights approach that’s child-centred will probably be embraced by all sectors of Aotearoa New Zealand.”
+Professor Cliona Ni Mhurchu, University of Auckland
+“A rights based approach can be helpful to frame issues and promote new ways of operating. However, like other social and economic rights, it is important to clarify what it means in practice and how it is given effect.” 
+Deb Sue, Woolworths Aotearoa New Zealand’s Nutritionist
+
+A food system and a healthy food environment is a core social institution promoted and protected by a range of human and Indigenous rights, including the rights to adequate food and health protection. These overlapping human rights may be understood as the right to healthy food for positive health outcomes and is binding on Aotearoa New Zealand (the Government) in international law.6 These rights both protect individuals and provide some positive recognition to collectives and groups. This is reflected, for example, in the right to self-determination, the right to development, the right to a clean, healthy, and sustainable environment, and Indigenous peoples’ and children’s rights.6
+In Aotearoa New Zealand, Te Tiriti o Waitangi 7 plays an important part in establishing how rights for Māori are protected and upheld in relation to food. This includes retaining Māori food-based knowledge and tikanga as well as access to and protection of the whenua and moana where food is grown and gathered.8 
+Individual and collective rights to food for wellbeing can serve as the foundation of a healthy food system. Over time, our understanding of the role of government in the preservation of human rights has evolved, from negative obligations (not torturing people, not banning newspapers, etc.) toward positive obligations (to actively protect and remedy situations where human rights are being impeded). For example, the obligation to protect means that the government has an obligation to stop third parties interfering in the enjoyment of human rights. An example in the case of the food system is government regulation of the private sector, so that business does not obstruct enjoyment of the right to healthy food for positive health outcomes.
+Government does not have sole responsibility for these human rights. According to the United Nations Guiding Principles on Business and Human Rights (known as the ‘Ruggie Principles’),9 which are part of the International Bill of Human Rights that the New Zealand government has affirmed:10 
+
+“Business enterprises should respect human rights. This means that they should avoid infringing on the human rights of others and should address adverse human rights impacts with which they are involved.”
+Our food system should create a legacy of health and wellbeing for future generations
+New Zealanders expect their food system to provide what is needed now and for generations to come. What children are exposed to, what kind of food system is left for them, and what happens to the planet under our stewardship are all in our control. For New Zealanders to thrive they need their food system to be future-focused and resilient. Decisions that are being made about the food system now will affect the food system far into the future. 
+Food security is a situation where people have adequate access to sufficient, safe and nutritious food. When we refer to food security, we follow the United Nations definition of a situation “when all people, at all times, have physical, social and economic access to sufficient, safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life.”11 Food insecurity (or a lack of reliable access to sufficient, safe and nutritious food) increases the risk of adverse physical and mental health and wellbeing outcomes, particularly when it occurs during pregnancy or childhood.12 Food insecurity and inadequate nutrition can also impact on behavioural problems and a child’s ability to engage with learning, contributing towards intergenerational disadvantage.13  
+In order to create the kind of health-promoting food system that will drive child health and well-being for communities across the country, we need to create the right tools and environment. Businesses need certainty and commitment from government about their place and role in the food system. Both need strong engagement and opportunities to lead, to help ensure the food system has a strong foundation. There are changes that can be made now that will ensure a stable, wellbeing-focused food system for generations to come. 
+Our food system should protect and care for people and the environment 
+
+Stakeholders say:
+Food connects us to place and people
+Food has a deep connection to values and identity which goes beyond nutritional value. The symbols and values associated with food were seen by stakeholders as highly relevant in terms of improving people’s nutrition. As such, it is important when understanding food environments to also understand communities and their value systems.
+Stakeholders described intimate connections to the land and sea, and to one’s shared origins and sense of home. Most stakeholders described food in ways that showed it was seen as “more than fuel”. As well as being a necessity for life, food was described as an expression of culture and identity, intertwined with social relationships and daily routines, and well as significant events.
+Providing food can be an expression of positive regard and respect, kindness/caring, and a vital part of providing hospitality. Stakeholders described intimate connections to the land and sea, and to one’s shared origins and sense of home.
+“Food is something that’s about being in relation with other people and being in relation with the environment.” 
+Haylee Koroi, Toi Tangata
+
+Food plays an important role in how people connect with one another and the environment, fostering shared values and expressions that transcend cultures. For many Māori, food growing, gathering, preparing, eating, and sharing encompasses fundamental relationships with te taiao, tino rangatiratanga, concepts of sovereignty, handing down of mātauranga, and strengthening whakapapa connections. 
+For everyone to play their part in enabling a health-promoting food system, the right settings have to be in place at all levels of that system. Those at the heart of the food system, such as producers and industry, need settings which ensure their ability to prosper and grow their businesses, to avoid a situation where people leave the industry. 
+However, it is neither economically nor philosophically beneficial to the people of Aotearoa New Zealand if the commodification of food to enrich our economy leads to environmental harm (through damage to natural resources such as waterways), social harm (through loss of connection to food environment), or physical harm (through reduced access to healthy foods).
+
+Aotearoa New Zealand needs a thriving food system that creates economic wealth, but in an ethical and environmentally sustainable way that also supports wellbeing and health. We need to rebalance the system and protect the people and environments that New Zealanders value.  
+Everyone should have the same access to the healthy food they need 
+All New Zealanders deserve, and are entitled to, an equal opportunity to enjoy a long and healthy life 14 supported by a food system that sustains and enables their wellbeing and health. As it stands, there are deep disparities in health outcomes within our population, including those driven by diet-related illness. For example, a Māori child born in Aotearoa New Zealand will, on average, live eight fewer years than a Pākehā child, and be substantially more likely during their lifetime to suffer a stroke,15 have cardiovascular disease 16-18 Type-2 diabetes mellitus,19,20 and renal disease or renal failure,22 all conditions caused or exacerbated by the influence of our food system on our diet. 
+
+Stakeholders say:
+Our problems have structural roots
+Our stakeholders noted that poverty and structural inequity have resulted in an urgent and pressing need to take action, to ensure equal access to good food around Aotearoa New Zealand.  
+Food insecurity is experienced by an increasing proportion of society. Our stakeholders emphasised that many people from populations that experience exclusion and inequity have limited access to healthy food.
+“…largely their ability to [have adequate food] is limited by all of those things and having the money, having the time, having safe warm housing. There’s a lot of compounding factors.” 
+Haylee Koroi, Toi Tangata
+
+As a society that counts fairness, equality and egalitarianism as foundational values,21 Aotearoa New Zealand is in a position to find ways to ensure that all of its citizens have the same level of health resource available to use throughout their lives. However, the determinants of good health are unfairly distributed within our population. This disadvantage does not occur randomly. While strongly patterned by sociodemographic factors, including socioeconomic deprivation and rurality, the strongest patterning of disadvantage occurs by ethnicity. These are the cumulative result of generations of social, political and structural inequity.
+
+Vision for Aotearoa New Zealand: A food system that works for everyone
+We can have a food system that reflects the aspirations and desires of all people in Aotearoa New Zealand, one which provides physical nourishment for all and connects people to their family, culture, communities, and environment. We can have a food system where healthy nutritious food is easy to access and afford in all our communities, and where the places our children live, learn, grow, and play support their wellbeing and health through food.
+Those who help to bring food to our plates are the backbone of our food system. Growers and farmers, producers who process and prepare our food, those that bring food to our stores from both local and international sources, and those that buy and sell food all have a significant role to play to help us achieve a system that helps New Zealanders achieve health and wellbeing. Government, both centrally and locally, also has an important part to play in ensuring that wellbeing and health are at the heart of our food system, and that those priorities are protected and upheld. 
+Aotearoa New Zealand's food system is an important part of our economy. Food exports are an important contributor to Aotearoa New Zealand’s economic prosperity, and our food industry employs a large number of New Zealanders, and makes a positive contribution to the livelihoods of many more. However, our food system requires rebalancing to ensure that alongside meeting economic goals it also supports the health and wellbeing of all New Zealanders. 
+A significant body of robust scientific evidence, combined with insights provided by our key stakeholders, have made it abundantly clear that our food system is out of balance and as a result is not delivering the health and wellbeing outcomes that it could, and is, in fact, harming our health and wellbeing. Meaningful change is urgently needed.  
+We have an opportunity to collectively bring about changes to rebalance our food system. We can have a more connected food system that places much greater weight on health and wellbeing. We can have a more secure food system that ensures equal access to healthy and nutritious food. We can have a sustainable food system that respects people and the environment. We can foster and support local food systems that provide nutritious and affordable food to their communities.
+In a review of locally led reports from 30 organisations in Aotearoa New Zealand, Cameron 2 shared a vision of what a better food system might look like.  The PHAC shares this vision, and elements of it echo throughout this report:
+	•	Local — by locals for locals, strengthening community resilience.
+	•	Affordable — everyone can afford nutritious food.
+	•	Connected — people are connected to each other, their food, and environment via food.
+	•	Healthy — healthy food environments lead to healthy people. 
+	•	Regenerative — nutritious for people, protects and supports te taiao.
+	•	Resilient — can withstand and recover swiftly after crises.
+Our Food System in Aotearoa New Zealand
+As noted earlier in this report, our food system is made up food producers, processors, manufacturers, transporters, retailers, and consumers, which collectively impact both positively and negatively on our physical environment, health, and wider society.22 
+Aotearoa New Zealand has a unique food system for a developed nation. Like most nations, the food system has a key role to play in nourishing the community and underpinning cultural, health and wellbeing outcomes. However, unlike most developed nations, Aotearoa New Zealand’s food system is also a key contributor to the country’s economic activity. It is an important source of prosperity for many and has historically drawn extensively on te taiao (land, soil, water, oceans, air, and biodiversity) to create this wealth. 
+
+Stakeholders say:
+A Te Ao Māori perspective will improve our food system
+A range of stakeholders from different agencies and backgrounds highlighted the cohesion provided by passing a Te Ao Māori lens across our food system:
+kaitiaki and respect for the natural environment and the planet
+the interconnectedness of people, plants, animals, water sources, and other parts of the natural environment
+food as a way of upholding people’s mana and an expression of manaakitanga
+knowing where your food comes from and the added significance of it coming from a place that is important to you
+the rights of people, whānau, hapū, iwi, and tangata whenua are upheld
+autonomy and sovereignty are provided for iwi, community, whānau and the individual (e.g. māra kai).
+“One of the many things we miss in our attempt to capture relevant data is the value of mātauranga Māori and the understanding of kai whenua, and kai moana practices, along with, other wonderful Māori systems we could utilise, if only true consultation with whānau, hapori, hapū and iwi received the investment.”
+Sande Mareroa-Gates, Auckland Regional Public Health
+
+
+Food in Te Ao Māori 
+In Te ao Māori (a Māori worldview), food has a strong spiritual connection. Kai (food) is a gift from the atua (gods) of the natural environment and is considered to share the mauri (the spiritual power) and life essence of the atua, which enriches the tinana (body), hinengaro (mind), wairua (spirit), and whānau (family). Food does more than just nourish the body physically. Because food is so heavily associated with the atua there are many aspects of food production, gathering and eating which are ritualised within Māori culture.
+Kai (food) is all about whakapapa (genealogy). Kai is the great connector that joins people to their tupuna (ancestors), mokopuna (descendants), whānau (families), te taiao (environment), and each other. Through kai, people are connected to the plants, the animals, the waterways, the oceans, the forests, and the atua.23 Kaitiakitanga is important in relation to food in te ao Māori. Kaitiakitanga involves physical, emotional, and spiritual connectedness, and a sense of being embedded in a particular place. It forces people to think in an integrate way about the practices they engage in and the flow-on effects of these practices.24
+Māori food sovereignty “empowers whānau and hapū driven food production”.25 It ensures Tangata Whenua have the freedom and responsibility to protect ancestral food systems, protecting cultural knowledge and practices associated with food production, distribution, and consumption. This gives Māori their right to define food and agricultural systems through ecologically sound and sustainable methods, returning to gathering, harvesting, and preparing their traditional foods for Māori communities.26 This involves growing and sourcing food where all elements are traceable, have not been exposed to contaminants and are created within a safe environment in balance with all elements of nature that are self-reliant and self-sustaining.27
+Through the process of colonisation in Aotearoa New Zealand, Māori ways of life, knowledge and culture have been eroded. Our food system has evolved over time to become less centred on local communities and more centred on mass production and commodification.  A recent Commerce Commission report found that Māori currently have no prominent role in the retail part of the grocery sector, which differs to their historical role where hapū and iwi were involved throughout all parts of the food supply chain, including as traders.28
+The evolution of our food system
+The story of Aotearoa New Zealand's food system begins with the arrival of Māori, who brought edible plants, including kūmara, yam and taro as well as kiore (the Polynesian rat) and kurī (the Polynesian dog). Traditional Māori diets consisted of these introduced foods, supplemented by kaimoana (fish and seafood), birds, and foods found locally in the dense native bush, such as wild ferns, vines, palms, fungi, berries, fruit, and seeds, which became important foods. Māori relied on hunting, foraging, gardening, and harvesting for food sources.29 
+Food was minimally processed, aside from methods of cooking, drying, and fermenting. 
+Mahinga kai describes the deep connection Māori have with the land through food, and through Taiao (the natural world). Traditional food cultivation and storage practices cared for the whenua (land) and wai (water) to protect and sustain food sources.30
+
+The early contact period, with Europe, introduced many foods including wheat for flour, sheep, pigs, goats and chickens, including vegetables such as pumpkin, potato and carrots. These new crops grew well in the Aotearoa New Zealand climate, and were capable of being harvested several times a year – leading to an increase in the size of an annual harvest.29 Over time, however, the loss of ancestral Māori land, combined with the clearing of the forests or drainage of wetlands for farming resulted in many traditional kai practices being lost.
+In our current system, food is an economic commodity grown primarily for export. Aotearoa New Zealand’s agricultural sector is intrinsically linked with our country’s economic success and has developed and intensified over time. Our agri-food sector is one of Aotearoa New Zealand’s largest sectors in the tradable economy. It contributes to approximately 25 percent of New Zealand’s gross domestic product, equating to $95 billion in 2022.31 However, the economic success of our food exports has partly occurred at the expense of our land and water, leading to degradation and to the destruction of traditional food growing and harvesting areas. The intensification of agricultural land use has involved higher use of fertilisers and irrigation, which damages our soils and pollutes rivers and lakes.32 
+The dominant food culture post European settlement was British in origin – meat-based meals accompanied by vegetables. While non-British immigrants to Aotearoa New Zealand brought their own foods with them, it wasn’t until the 1960s that Aotearoa New Zealand’s cuisine started to diversify beyond the ‘meat and three veg’ tradition to embrace other food cultures, such as those from Mediterranean and Asian countries.33 Over the past 40 years, diets and eating habits have shifted away from  home grown and home cooked food toward increased reliance upon  processed  foods and eating out of home. This has coincided with an increased prevalence of obesity and diet-related ill health, often described globally as the ‘nutrition transition’. 34 
+Urbanisation and increased globalisation have influenced food availability and choice. For example, the emergence of more food retailers such as fast-food outlets, convenience stores and supermarkets offer a greater variety of ready-to-eat foods. Over this period, there has been a proliferation of energy-dense, low-nutrient highly processed foods. These low-cost, largely discretionary foods are displacing nutritious foods in the diet as a result of their affordability, accessibility and promotion.34 The places we live, work learn and shop are flooded by these highly processed foods with little nutritional value, while our access to healthy food has been reduced to a trickle.
+
+Current governance and rule-setting
+All the parts of the food system have different roles and responsibilities, including the government, which regulates food, people who grow and produce food, the food industry, and people who buy and sell food. Food systems perform a central role not only in determining the quantity, quality, diversity, and nutritional content of the foods available for consumption, but also in sustaining the livelihoods of many  people.35 
+Our food-related legislation
+The main legislation dedicated to food in Aotearoa New Zealand is the Food Act 2014,36 which is administered by Ministry for Primary Industries (MPI). The main focus of the Food Act 2014 is on how food is produced, food safety in relation to pathogens and residues, use of agricultural compounds and veterinary medicines and the assurance and certification of food that is exported. Risk-based measures are the main mechanisms under the Act for ensuring the safety and suitability of food for sale. Government can choose which minster(s) are responsible for exercising powers under the Food Act. 
+
+Stakeholders say:
+We need an all-of-government approach to healthy food access
+As expected, there were a range of views on the role of government intervention in our food system. Some stakeholders viewed government intervention as key to ensuring a right to healthy food was realised, and this required genuine partnership with Māori. Other stakeholders felt the role of government was less clear.
+Those who supported government intervention centred around the need for an all-of-government approach to healthy food access.  Stakeholders highlighted that major determinants of health such as employment, education, and housing have lead government agencies and yet food lacks coordinated, central government leadership. It was noted that current elements of food policy and strategy exist in a range of government agencies but that no agency has overall responsibility for both food security and sustainable food systems.
+These interviews took place at a time when many stakeholders’ communities were recovering from cyclones and extreme weather events. The climate crisis, environmental impacts, and concerns around sustainability were issues that have added to the vulnerability in healthy food access for many New Zealanders.  These are problems that require an all-of-government solution.
+
+Whilst acute public health risks from a food safety perspective (such as Salmonella contamination) are covered by the Food Act, the Act does not directly include similar measures to prevent long term health implications, from, for example, consuming unhealthy food and beverages. This is at odds with one of the stated purposes of the Act, which is to “provide for risk-based measures that minimise and manage risks to public health; and protect and promote public health”. This limitation of the Food Act has follow-on impacts for other intersecting legislation, including the Local Government Act (2002) and the Pae Ora (Healthy Futures) Act (2022), since the Food Act can be used to limit the ability of these other Acts to enable regulation of unhealthy foods at a local and national level. 
+
+The Ministry of Health is responsible for the protection, promotion and improvement of health of all New Zealanders under the Pae Ora (Healthy Futures) Act (2022).37 Under this Act, the health sector must adopt population health approaches that prevent, reduce or delay the onset of health needs. With the above caveat regarding the impact of the Food Act, the Pae Ora (Healthy Futures) Act also supports the role of the Minister of Health in having overall responsibility for ensuring that other parts of government act in a way which promotes and supports health gain and equity.
+Our joint food regulation system with Australia 
+The joint Australia and New Zealand food regulation system is a unique system emerging from a trans-Tasman commitment to a single economic market. This commitment is grounded in three trade-focused agreements:
+The 1983 Australia Aotearoa New Zealand Closer Economic Relations Trade Agreement;38
+The 1996 Trans-Tasman Mutual Recognition Arrangement (TTMRA),39 which agrees that any goods (including food) that can legally be sold in one country are automatically approved for sale in the other; and 
+The 1995 Australia Aotearoa New Zealand Food Standards Treaty,40 which supports the TTMRA commitment by adopting a trans-Tasman system for harmonising food standards, specifically those relating to food labelling and composition.  The binational standards setting body is Food Standards Australia New Zealand, or FSANZ. 
+The joint food regulation system has four new strategic outcomes:
+Safe and suitable food
+Healthy food supply
+Informed, empowered consumers
+Thriving food economy
+This joint food regulation system is important in the context of healthy food access because it means that food policy relating to labelling and composition standards is cooperatively made by a forum of Ministers from Australia and Aotearoa New Zealand government jurisdictions (the Food Ministers’ Meeting). There is one member from each jurisdiction and each member has one vote. The Minister for Food Safety represents New Zealand on the Food Ministers’ Meeting.  As such, decision-making around the composition of the food supply to support access to healthy food for New Zealanders cannot necessarily be made unilaterally by either country. In 2022, the Aotearoa New Zealand Minister for Food Safety reported to Cabinet that while the joint regulatory system has worked well in terms of food safety and trade facilitation, it “has not demonstrated a strong ability to meet broader public health needs, and this is part of the reason we now have a food supply that is safe but not always healthy.”41
+
+The Health Imperative for Change 
+Food is critical to the health of all New Zealanders, for building health, preventing disease, and supporting recovery. Poor access to healthy food in the current food system is one of the critical pathways toward poor health outcomes across our population, including an increasing burden of long-term health conditions and poor child health. In this section, we summarise some of the evidence regarding the impact of our existing food system on the health of our people.
+Flood of unhealthy food drives poor health outcomes
+Long-term conditions (LTCs), such as cardiovascular and respiratory diseases, cancer and diabetes are the major causes of death, illness and disability in Aotearoa New Zealand, and also drive significant inequities in health outcomes for Māori and Pacific people.42 
+The abundant availability and accessibility of unhealthy food has been identified as a leading modifiable cause of this health loss in Aotearoa New Zealand, second only to tobacco use.42 Despite efforts to reduce the harm from unhealthy food, long term conditions like diabetes and some obesity-related cancers are getting worse over time. For example, recent modelling suggests that the number of New Zealanders with type-2 diabetes will increase from 220,000 in 2018 to more than 400,000 by 2040, with the greatest relative increase occurring among Pacific peoples.43  Uterine cancer, which is strongly related to obesity, is now the second most-diagnosed cancer among Pacific females after breast cancer, with around twice as many Pacific women diagnosed with uterine cancer each year as either lung or colorectal cancer.44
+Obesity is one of the consequences of our unbalanced food system and is also an important driver of the persistent health inequities experienced by Māori compared to Pākehā. For example, Māori are more likely to have cardiovascular disease and/or type-2 diabetes, suffer a stroke, and have kidney disease or failure compared to Pākehā.16,18-20,22 The Crown’s obligations under Te Tiriti o Waitangi to improve and protect the health and wellbeing of Māori means urgent action to address this inequity is required.14
+Obesity-derived LTC’s are also extremely expensive to our public health system. In fact, the majority (59%) of health expenditure in Aotearoa New Zealand is attributable to LTCs, and these costs are expected to escalate over time.45 It has been estimated that obesity drives $2 billion of direct health system costs each year, or 8% of our total health expenditure, and leads to an estimated total cost to society (through things like loss of productive workforce) of $4-9 billion.46  
+Figure 1: Total annual cost of type 2 diabetes in New Zealand 
+Source: PWC, The Economic and Social Cost of Type 2 Diabetes, 2021 
+The total cost of type 2 diabetes alone has been estimated to be $2.1 billion each year and is projected to increase by 63 percent to $3.5 billion by 2040.43 The bulk of these costs are direct public health system costs, but economic costs to individuals and their families are also likely to be substantial see Figure 1.43 
+Our food environments drive poor access to healthy food
+The majority of New Zealanders are not eating a healthy diet. Data from the 2022/23 New Zealand Health Survey 47 found that only 6.7% of adults ate the recommended combined number of servings of fruit and vegetables. The same survey found only 4.9% of children ate the recommended combined number of servings of fruit and vegetables.47 
+Health-constraining food outlets are not randomly distributed
+The Health Location Index (HLI) developed by the University of Canterbury has been used to identify the density and distribution of health-constraining and health-promoting food outlets.48  The HLI was developed by collecting nationwide data in 2018 on a comprehensive range of environmental exposures. It has found that the most deprived areas have the greatest concentration of health-constraining food outlets. Figure 2, created using the HLI dashboard,49 shows the density of fast food and takeaway outlets within part of the Auckland region, with light colours indicating low density and darker colours indicating high density. We have added labels to indicate suburbs of interest, and to enable comparison between low-deprivation suburbs (such as Remuera and Mangere Bridge) with high-deprivation deciles (such as Otara and Mangere East).
+Figure 2: Density of fast food outlets in the Auckland region
+
+Source: Healthy Location Index in Aotearoa New Zealand, Geospatial Research Institute Toi Hangara, University of Canterbury
+Unhealthy food and drink marketing does not occur randomly
+Children in Aotearoa New Zealand are exposed to excessive levels of unhealthy food and drink marketing. A study of children aged 11-13 years in the Wellington region of New Zealand found that they were exposed to unhealthy food and drink marketing over 68 times a day. This was more than twice the amount of advertising seen for healthy products.50  Children living in higher deprivation areas in Aotearoa New Zealand have greater exposure to unhealthy food outlets and marketing than children living in less deprived neighbourhoods.51 As more than half of whānau Māori live in deprived neighbourhoods, Māori children are exposed to around twice as much unhealthy food and drink marketing than non-Māori.51
+Food insecurity leads to health harm
+Stakeholders say:
+Food insecurity is a pressing problem that is getting worse
+Concerns were raised by stakeholders in relation to food insecurity:
+recent increases in the cost of living and trends in consumer behaviour gear people to seek value-for-money
+there is increased and sustained demand for emergency food since the COVID-19 pandemic 
+food insecurity is a problem that is drifting towards individuals and families on middle incomes
+the availability of poor quality “ready-made” food (including a range of fast food) detracts from a healthy diet
+there are concerns around emergency food provision systems, including criterion for accessing the food, the need to queue (which invites stigma and reduces mana), and limitations in the types of emergency food provided
+time constraints to cook meals from healthy ingredients, which is a particular barrier for lower-income families where caregivers may work multiple jobs
+
+In a successful food producing nation, food insecurity is the starkest illustration that our food system is not working for everyone.  The relationship between our current food system and health harm is strongly related to food security. As outlined earlier in this report, food insecurity occurs when an individual or group do not have access to enough safe and nutritious food that enable an active and healthy life.11    
+Food insecurity is common in New Zealand, especially among people living in deprived communities and on low incomes, and among Māori and Pacific peoples. Aotearoa New Zealand’s largest contemporary longitudinal study of child development, the Growing Up in Aotearoa New Zealand study, recently published concerning evidence regarding the commonality of children experiencing food insecurity within our current food system:52
+More than one-third (36%) of Pacific young people lived in moderately food insecure households and a further 5% lived in households that were severely food insecure;
+A high proportion of rangatahi Māori also lived in moderately (25%) or severely (4%) food insecure households;
+35% of young people living in the most deprived communities (NZDep2018 quintile 5) experienced moderate food insecurity and 6% were severely food insecure.
+Disabled people and their whānau are also more likely to experience food insecurity. People who are disabled are less likely to be employed or have adequate income and face other barriers to food security such as mobility and the impacts of impairment on shopping and preparing food.
+Food insecurity leads to child health harm
+Food insecurity among children is an important driver of poor outcomes. Children living in food-insecure households in Aotearoa New Zealand are more likely than children living in food-secure households to experience poorer nutrition, higher rates of overweight or obesity, and a higher prevalence of developmental or behavioural difficulties.53  Recent New Zealand data shows that food insecurity is associated with lower educational achievement among 15 year old students.54 These adverse health outcomes are being mediated by common causes such as poverty and deprivation, which are associated with preventing adequate access to healthy food within the current food system.53
+Oral health provides a strong example of the impact of food insecurity on child health.  There is a known relationship between the frequency of sugar intake and the occurrence of dental caries (holes in teeth or areas of decay),55 and there is a relationship between the availability of affordable high-sugar food and beverages and consumption of those products.56 In 2022, 44% of children at age five had experienced tooth decay, but for Māori children it was 61%.  Lift the Lip (LTL), the oral health component of the Aotearoa New Zealand Government’s B4 School Check, is carried out by non-oral health professionals and involves a visual assessment and application of an oral health grade from 1 to 6.57 A recent Ministry of Health review of the Well Child Tamariki Ora programme found that while LTL has merit, the evidence base for the measurement was unclear, and suggested that further work was needed to enhance the quality of the LTL programme.58
+Food insecurity leads to mental health harm
+As well as having a relationship with physical health harm, food insecurity has been associated with psychological distress and adverse mental health outcomes,59-61 including in Aotearoa New Zealand.62 Food insecurity increases an individual’s risk of experiencing depression, anxiety, sleep disorders, stress, and poor overall emotional health, and this impact does not appear to be short-term: for young adults and adolescents, experiencing food insecurity during childhood is associated with greater psychological distress in adulthood.59,63,64 
+Among mothers, maternal deprivation is a common phenomenon where mothers sacrifice or reduce their own food intake to ensure their children have enough to eat and has also been linked to maternal depression.59,65,66
+As well as the mental harm caused by experiences of food insecurity, there is also a relationship between mental health and the kinds of food that an individual or group typically consume. For example, a systematic review found that high consumption (compared to low consumption) of fruits, vegetables, nuts, and legumes, as well as moderate consumption of poultry, eggs, and dairy products and only occasional consumption of red meat (commonly referred to as the Mediterranean diet), is associated with a reduced risk of depression.67  It follows that those with less reliable access to such a diet will not benefit from this risk reduction.
+Our out-of-balance food system harms the physical environment, which then harms our health
+Our agricultural industry is a critical component of our economy. However, a significant downside of our large-scale industrialisation of food production is the substantial impact this has on our physical environment, which in turn leads to harm to our physical health. There are a number of pathways through which this harm can occur, such as pollution of our waterways with livestock effluent which leads to the spread of dangerous pathogens such as Campylobacter.68 Changes in water quality can also affect the mauri (life force), mana, and wairua (spirituality) of waterways.69  
+Figure 3: Greenhouse gas emissions from different food products
+Source: United Nations, Food and Climate Change: Healthy diets for a healthier planet 
+Another significant example is the impact of our food system on climate change. Figure 3 published by the UN, shows the kilograms of greenhouse gas emissions (carbon dioxide equivalents, or kgCO2e) per kilogram of food produced.70,71 Globally, food systems account for a third of all greenhouse gas emissions.72  An increase in greenhouse gas emissions is a principal driver of climate change, which in turn has both a direct and indirect impact on our health.73 Climate change directly impacts our health through increases in the frequency of extreme weather events, like extreme heat, rising sea levels and flooding. Climate change indirectly impacts our health through pathways like food and water insecurity, transmission of diseases, and disruption to health care systems.73
+As a major producer and exporter of many of the highest-emissions products in the above figure, including beef and lamb, Aotearoa New Zealand is internationally a major producer of greenhouse gasses. Figure 4 shows Aotearoa New Zealand’s per capita emission of greenhouse gasses (in tonnes of carbon dioxide equivalents), relative to both the rest of the world and other upper-middle-income countries. A recent report from the Ministry for the Environment noted that around half of all of Aotearoa New Zealand’s greenhouse gas emissions come from our agricultural industry.74
+
+
+Figure 4: Aotearoa New Zealand’s per capita emission of greenhouse gasses (tonnes of carbon dioxide equivalents) 
+
+Source: Ministry for the Environment, 2023, New Zealand’s Greenhouse Gas Inventory 1990–2021 
+
+Climate change and food systems
+The relationship between our food system, our environment and our health is complex. For example, there are environmental benefits of a move towards healthier diets. A shift to eating more plant-based foods leads to co-benefits for both health and the environment. Growing local food systems can result in not only improvements in nutrition and food security, but also in more resilient and sustainable communities which can better withstand the impacts of climate change.
+Climate change poses significant risks to our ability to access and afford food that meets our nutritional needs. We are now seeing the impacts of climate change in the recent severe weather events, Cyclones Gabrielle and Hale, and these kinds of events are only going to become more frequent. When a disaster strikes it exposes the vulnerabilities of our food systems and brings into sharp focus that our current food system is not oriented to ensuring everyone has access to good food. In preparing for the ongoing impacts of climate change, and other events such as pandemics, ensuring the resilience and accessibility of our food system is critical.  
+
+What Is Getting In The Way?
+Globally, and in Aotearoa New Zealand, the pathway to achieving food security is through the creation and management of a functional, resilient and equitable food system.75 In order to reverse or avoid the consequences of food insecurity highlighted in the previous chapter, and improve access to affordable, nutritious food that supports an active and healthy life, we need to reflect on those elements of our food system that are preventing the achievement of food security for everyone in Aotearoa New Zealand.  
+We have learned to view food as a commodity
+Most New Zealanders access food through retail outlets, such as supermarkets, restaurants, and cafes, similar to most developed nations.28 Their experience of food is through a narrow-based view of food as a commodity that is bought and sold. This commodification of food has grown out of our dependence on food production for the health of our economy. Food production and distribution currently contributes to approximately 25% of Aotearoa New Zealand’s gross domestic product, equating to $95 billion in 2022.31
+Adopting a commodity-based view of food effectively narrows our food system down to just the market, and individuals acting as consumers within that market.76 Instead of focussing on feeding and nourishing people within a community or wider population, the commodification of food prioritises the generation of financial return.77 A food system that views food primarily as a commodity is also at odds with a system that sees access to nutritious food as a human right.76,77 Solutions that focus on healthy food as a human right, increasing community control, or local production, are considered incompatible with this commodity framing.2,78  Consumerism-related solutions focus on individual purchasing behaviour such as growing your own food, shopping at farmers’ markets, buying budget brands, or choosing healthier options at local supermarkets.
+Another related factor implicit in the view of food as a commodity is the idea that consumers are able to make informed choices regarding food. This illusion of choice suggests that access to healthy food is evenly distributed across the population, and that consumers have equal access to healthy food through market mechanisms. However, evidence has shown that this is not true. For example, as noted earlier in this report, we know that fast food outlets are concentrated in the most deprived communities, and supermarkets in low-income areas stock a higher ratio of unhealthy to healthy foods compared with those in high-income areas.79 
+A recent report from the Chief Science Advisors to the European Commission concluded that the pathway toward a more sustainable food system requires “moving from food as a commodity to food as [more of] a common good”.80 Balancing the wellbeing and health, cultural and environmental needs of New Zealanders with the need to create the wealth that enables Aotearoa New Zealand to prosper presents a significant challenge. However, achieving this balance presents a significant opportunity for improving the health of all New Zealanders.
+
+Our food system works best for a small number of large businesses
+Commercial competition within our food system is important because it helps to ensure that profit margins remain fair and prices as low as possible for New Zealanders. A recent Commerce Commission report made several observations regarding the dominance of the supermarket duopoly (Woolworths NZ and Foodstuff North Island/South Island):28
+The Commerce Commission estimates that a normal rate of return for grocery retailing in Aotearoa New Zealand should be around 5.5%.
+For the period between 2015 and 2019, the Commission determined an average return of 12.7% for Woolworths NZ, 13.1% for Foodstuffs North Island and 12.8% for Foodstuffs South Island.
+The Commission noted that the fact that the dominant retailers are earning above a normal return suggests that competition is not working well for New Zealanders. 
+When competition in a market is not working well, retailers have a weak incentive to compete on price – which means that prices will be higher than they are in a market where competition is working properly.28  
+
+Stakeholders say:
+Food is a big business with no wellbeing incentive
+Stakeholders noted that commercial interests are strong within Aotearoa New Zealand’s food system. The supermarket duopoly dominated by Foodstuffs NZ and Woolworths NZ was identified to be in a unique position of power in this country.
+Some stakeholders felt that access to healthy food cannot be guaranteed in a conventional market economy, and indicated a need for greater government intervention. The market economy functions within a legislative framework that has been described as ‘food agnostic’, as it responds primarily to the forces of supply and demand.
+“There is an elephant in the room – the GDP [gross domestic product] economy. We ‘talk’ about wellbeing economy and healthy food, healthy environments, but we ‘walk’ the GDP economic model…We cannot rely on the corporations that supply our food system” 
+Julio Bin, Healthy Families South Auckland 
+ “There’s no rights, you’ve lost your rights because consumerism or the big wigs control how products are distributed…They control the economy and the behaviour. There’s not a rights-based approach now because no one sits down with whānau or us kaimahi and says “is this what we should be charging, how do people access [food] where they live”. There’s none of those conversations, only at a local or regional level” 
+Tu Kotahi
+
+
+The Commerce Commission report also observed that the magnitude of the market share held by the supermarket duopoly means that new or smaller grocery retailers cannot hope to compete on price, because of a lack of wholesale supply of a wide range of grocery products at competitive prices, as well as other barriers like access to suitable sites for brick-and-mortar stores.28 These factors all combine to make all our food – including healthy food – less accessible than it should be in Aotearoa New Zealand.  
+Globally, 20 companies now process most of the world’s food.81
+Food is getting more expensive to buy, and unhealthy food is cheaper than healthy food 
+Aotearoa New Zealand ranks within the top five most expensive grocery markets out of all 38 OECD countries.28 Aotearoa New Zealand’s Food Price Index measures the changes in prices that households have to pay for food, using individual food items that represent a typical food basket. In only the 12-month period from September 2023 compared to September 2022, grocery prices increased by 11%.82 
+Figure 5: Food Price Index monthly weighted average prices
+By healthy and unhealthy foods, 2014-2024
+Source: Statistics New Zealand, Food price index: September 2023
+A previous analysis of Food Price Index categorised food as ‘healthy’ or ‘unhealthy’ based on the WHO Europe nutrient profile model data. Their findings suggested that there was little difference in price between healthy and unhealthy food.83 However, latest data (see Figure 5) using the Food Price Index suggests that this situation is changing.83 From 2014 to 2017, healthy foods (fruit, vegetables, grains, dairy, meat and alternatives, fats and oils) and unhealthy foods (energy-dense, nutrient-poor or foods high in saturated fat, sodium and/or added sugar) were both available at similar prices though healthier options were generally more expensive. Beyond 2017, a clear rise in the price of healthy options is observed which appears to settle somewhat between 2019 and 2020. 
+
+Following 2020 there is a drastic rise where healthy options become significantly less affordable (though the price of food generally also increases). The drivers of this growing difference between the cost of healthy versus unhealthy foods are likely to be multifactorial and include the COVID-19 pandemic and its impact on the food supply chain. The effects include the intensification of the flood of unhealthy food, juxtaposed with the dwindling trickle of healthy foods.
+These dramatic increases in the price of food over time has had significant consequences to New Zealanders living in deprivation. Nearly a quarter (22%) of those who have below average incomes have needed government assistance in the form of food, clothes, money, or welfare.84  Furthermore, when looking at trends of hardship assistance granted by the Ministry of Social Development (see Figure 6), the largest category of assistance is for food. Over 300,000 grants have been given for food related assistance, with a peak of almost 600,000 during the first half of 2020 This near-doubling of the number of food-related assistance grants supports evidence that food insecurity was strongly exacerbated by the COVID-19 pandemic, particularly for those already living in financial hardship.85 
+Figure 6: Hardship assistance grants 2019-2024, by category
+Source: Ministry of Social Development, 2019-2024
+
+
+Access to healthy food is not equal across the country 
+Ease of accessing affordable and nutritious food is dependent on the surrounding food environment.  There is a trickle of affordable healthy food for some communities which some label food deserts. There are multiple ways to define a food desert, the most simplified of which is whether or not a geographic area has a supermarket.86 In broader terms, a food desert is an area where it is difficult or impossible for residents to buy affordable, healthy food.87  
+This Figure 7 from the Healthy Location Index 49 shows current variability in how accessible a supermarket is for New Zealanders living in different parts of the country. Light colours (as seen for most non-urban areas) denote the worst access, while darker colours denote the best access. 
+These data illustrate two key pieces of information in the context of this report. First, that those living outside of main centres and/or rurally have the poorest access to supermarkets.  This will differentially impact our Māori population, who are more likely than other ethnic groups to live rurally.88 Second, even within our largest cities, there is variation in supermarket accessibility. While those living in the most deprived areas actually have better access to supermarkets than those in less deprived areas, they also have much greater access to convenience stores and fast food outlets (or food ‘swamps’).89
+Figure 7: Accessibility to supermarkets in Aotearoa
+
+Source: Healthy Location Index ArcGIS dashboard
+
+
+
+Stakeholders say:
+Food ‘deserts’ drive poor access 
+Despite concerns over our supermarket duopoly, supermarkets were noted as valuable to communities for the food range available at more affordable prices.  
+Concerns were raised by stakeholders about the concentration of food outlets selling foods that are generally less healthy such as fast-food outlets, takeaways, and dairies. The prevalence of these near schools and in low socio-economic areas was of particular concern.
+Some towns and rural areas had a lack of supermarkets which severely limited residents’ food choices, and local markets and farmers’ markets do not exist in many places.  Recent events in the town of Flaxmere on the east coast of the North Island offer an example of the creation of a local food desert in real-time: Flaxmere’s local New World closed in February 2024, leaving the township of 11,000 people without a supermarket.
+Aotearoa New Zealand produces an abundance of food, but we export most of it and are not self-sufficient
+Aotearoa New Zealand produces high volume, high-quality dairy and protein, as well as fruit and vegetables.90 Aotearoa New Zealand exports enough food to feed 39 million people their daily dairy intake, 12 million their daily meat, seafood and other protein intake, 2 million their daily vegetable intake and 10 million their daily fruit intake.91  
+While Aotearoa New Zealand produces an abundance of food, there are certain key foods consumed in large quantities that cannot be grown in Aotearoa New Zealand, or for which Aotearoa New Zealand does not produce enough to meet domestic needs. These include sugar, wheat, maize, rice, and coffee, which are staples in the Aotearoa New Zealand diet or for livestock production and are not easily substitutable. These foods are imported from only a small number of places, so any disruption in trade flows or production in those countries will severely affect Aotearoa New Zealand’s food security.90  
+This Figure 8 replicates data highlighted in a policy briefing document by Manaaki Whenua – Landcare Research,90 which examined food production and consumption in Aotearoa New Zealand.90 It shows the volume of foods which are produced, exported, and imported in Aotearoa New Zealand. 
+
+Figure 8: Food production and consumption in Aotearoa
+Source: Landcare Research
+This Table 1 from the same policy briefing document shows recent volumes of Aotearoa New Zealand production (in kilotons) of various kinds of foods, and the total Aotearoa New Zealand consumption of these products. It also shows how much consumer waste is produced for each product – for example, the Landcare Research report estimates that about 77 kilotons of fresh fruit and 74 kilotons of fresh vegetables are wasted each year as consumer leftovers, and subsequently half of all consumer food waste is fresh fruit and vegetables.90
+
+Table 1: Food production and consumption in Aotearoa, 2018-2038
+Food components
+Production, in kilotons (for domestic market | exported)
+Consumption, in kilotons(kiloton of consumer waste)
+
+2018
+2018
+2028
+2038
+Dairy 
+3196 (220|2976)
+279 (13)
+310
+332
+Fruit 
+1566 (257|1309)
+422 (77)
+468
+501
+Vegetables 
+1458 (1044|415)
+811 (74)
+899
+962
+Milling wheat
+81 (81|0)
+305 (18)
+339
+363
+Sugar 
+0(0|57)
+225 (NA)
+250
+267
+Chicken meat 
+240 (232|8)
+235 (17)
+260
+279
+Lamb and Mutton
+478 (70|408)
+28 (NA)
+31
+33
+Beef
+680 (245|435)
+84 (7)
+94
+100
+Eggs 
+68 (66|2)
+67 (5)
+75
+80
+Total
+7768 (2216|5610)
+2460 (211)
+2,725
+2,918
+Source: Landcare Research
+
+These valuable data provide important insights with respect to the imbalance within our food system. First, as noted by Rush and Obolonkin, there appears to be a “substantial disconnect among the proportions and diversity of foods exported and imported from Aotearoa New Zealand. Foods exported including quality vegetables, fruits, protein sources and dairy could meet most of the dietary requirements, excepts grains, of people in Aotearoa New Zealand who are food insecure.”91 In other words, with the exception of grain, Aotearoa New Zealand grows and produces more than enough food to ensure adequate access to a healthy, balanced diet for all New Zealanders, and therefore an absence of food insecurity.
+Second, the data on consumer waste, particularly of fruit and vegetables, emphasises the importance of food rescue programmes in enabling the redistribution of food that would otherwise go to waste. Such programmes have ramifications both in terms of the number of people fed, but also in terms of the environment – globally, around 9% of the greenhouse gas emissions attributable to the food system are derived just from waste.92 Reducing this waste will have a tangible impact on efforts to prevent or slow climate change.93 
+We have a limited understanding of what New Zealanders are eating 
+Aotearoa New Zealand does not regularly collect detailed information on food and nutrient intake.94 The last national nutritional surveys were conducted over 15 years ago for adults (in 2008/09) 95 and more than 20 years ago for children (in 2002).96 We therefore have limited data on whether Aotearoa New Zealander’s diets are meeting nutritional needs.  
+The current limited source of national data on nutrition comes from the New Zealand Health Survey (NZHS). 
+The core NZHS includes several questions on food and drink intake, such as the number of servings of fruit and vegetables eaten, and frequency of fast-food intake. Data from the NZHS provides some information on dietary behaviours, but it lacks the specificity required to inform national-level actions around nutrition. As such, we currently do not have a robust means of monitoring the impact of interventions (or lack of intervention) on access to healthy foods, nor changes over time in access to unhealthy foods.
+Up-to-date dietary intake data collected from a national nutrition survey is required to inform food and nutrition policy and regulatory decisions, funding, development and evaluation of programmes and services, especially for those who need it the most. Such a survey would increase our understanding of current nutrition-related disparities within our population and help inform targeted interventions as well as provide a baseline for monitoring progress towards improvement in our collective nutrition.  
+In 2021, the Ministry of Health awarded a contract to a team of nutrition scientists at the University of Auckland and Massey University to develop the tools and methods for a national nutrition survey. The contract, which was completed in 2023, resulted in the development of an online 24-hour recall dietary assessment tool and questionnaires to collect data on usual dietary habits, food security and nutrition-related health conditions. However, there is currently no funding for a new national nutrition survey. 
+How do we rebalance our food system?
+In the previous sections, we have provided an overview of the way our food system currently operates, and some of the key factors that are preventing us from achieving a balanced food system that has the health and wellbeing of New Zealanders at its centre. In this section, we cover the high-level changes that are required to rebalance our food system, (see ‘Values Underpinning This Report’).  
+We need to reset the values and purpose of the food system with greatest weight on health and wellbeing
+Aotearoa New Zealand’s food system is not meeting the health and wellbeing needs of all New Zealanders. Our system is orientated towards a consumer model, which has served us well economically, but has failed to prioritise health and wellbeing. Despite being a food producer, the system also fails to provide all people in Aotearoa New Zealand with food that meets their physical, social and cultural needs. 
+
+Stakeholders say:
+We already know what works
+Our stakeholders identified a number of existing policies or initiatives that work well at improving access to healthy food:
+The Oranga Kai - Oranga Pumau Healthy Eating Health Action (HEHA) Strategy was launched in 2003 but disestablished in 2009. Stakeholders said this integrated and intersectoral approach was working, but not given the chance to mature, nor properly evaluated
+National nutrition guidance was supported as effective mechanisms if monitored and mandated in environments like schools and hospitals
+Healthy school lunches (Ka Ora Ka Ako) was seen as an effective way to target children, with evidence from The Aotearoa New Zealand Healthy Food Environment Policy Index (Food-EPI) supporting expansion of this programme
+Favourable employment conditions, family and social support and intergenerational patterns help ensure breastfeeding to the recommended minimum of six months.
+Regulation in the form of accepted or enforceable guidelines and standards (e.g. food formulation and labelling) were seen as effective levers that the government can use to improve nutrition.
+The Grocery Industry Competition Bill passed its third reading while interviews were taking place. This bill will establish a Grocery Commissioner to oversee the grocery sector, restore some balance in the market, and make market entry feasible for new and smaller players.
+
+Our system can be reset to be health and wellbeing- centred, while allowing for our ongoing economic prosperity. We can design a system that produces and supplies food to all communities in a way that prioritises health and ensuring everyone gets what they need in ways that uphold Te Tiriti o Waitangi.  
+It will require strong leadership from government, but all parts of the system have a role to play in resetting the values and purpose of our food system. 
+We need to protect the right to healthy food for all New Zealanders 
+All New Zealanders have a right to healthy food and health protection. Solutions that combine strategies to promote food affordability and security, improve the nutritional content of the foods we eat, develop healthy food retail systems and environments, and empower local food systems can be effective at improving people’s food environments and access to healthy food options. 
+We need to make sure everyone has good access to healthy food
+In order to target those groups who have the poorest access to healthy food and consequent health outcomes, it is important that policy solutions are implemented with an evidence-informed equity lens. Solutions which focus on individual behaviour change are minimally effective at a population level, resource-intensive and usually widen inequities.97 Addressing disparities in the context of a wider, population-level programme of work, is likely to be most effective when such a programme addresses the structures and systems in which people access food.98 The most effective solutions are likely to be community directed, participatory, multifaceted, and culturally relevant.
+We need to invest in our children
+We need to focus on policies and interventions that support our children to enable the best start in life. Just like investing earlier in the food cycle, investing in interventions that maximise access to healthy food among children can have a profound impact on child and whānau health. For example, an evaluation of the Ka Ora, Ka Ako (Healthy Foods in Schools) programme, conducted two years after its implementation, found that participants reported improved food security, increased appreciation of healthy foods, enhanced mana, reduced financial hardship/stress for whānau, and increased opportunities for nutritional learning.99
+There are already several programmes designed to meet the food needs of children around Aotearoa New Zealand, including:
+The Ka Ora, Ka Ako programme was praised by many stakeholders, and there was support for this programme to be expanded. 
+Healthy Families NZ is a community collective approach to health promotion and prevention that supports access to healthy food through a local focus (see Healthy Families NZ Evaluations | Healthy Families New Zealand)
+Healthy Active Learning is a joint government initiative between Sport NZ, the Ministry of Education, the Ministry of Health and Te Whatu Ora - Health New Zealand that supports schools and kura to improve the wellbeing of tamariki and rangatahi through healthy eating and drinking, and quality physical activity. Early Learning Services through to secondary schools are supported to implement healthy food and drink policies and improve the wider food environment (see Healthy Active Learning Evaluation: July 2020 - March 2022 | Sport New Zealand - Ihi Aotearoa (sportnz.org.nz)).
+Fruit in schools encourages children to eat more fruit and vegetables by providing a piece of fresh produce daily to each student in approximately 560 primary schools.
+
+
+KickStart Breakfast is a community partnership initiative providing food and support to schools to run a breakfast club.
+Nourishing Hawkes Bay is a community research project that brings the added value of mātauranga Māori to re-orientate the existing food system so it better serves whānau food security, health, and sustainable environments.
+
+We need to invest earlier in the food cycle for greater return and less future costs
+The further upstream health interventions are directed, the higher the impact of the interventions at a population level.100 Resource flow in the current food system is imbalanced, where significant amounts of resource (including financial and labour) are required downstream to solve the problems and mitigate issues stemming from earlier in the food system. Examples of this include:
+High costs of removing food waste (e.g. transport, processing, destroying, redistribution) 
+High costs of enforcing compliance with regulation (e.g. licencing, verification, complaint investigation) 
+High costs of healthcare from food-related conditions (e.g. diabetes, cardiovascular disease, gout, cancer)
+These disproportionate costs downstream in the food system, which also flow into other systems such as health and welfare, could be significantly reduced by targeting interventions earlier in the food cycle. In a practical sense, examples of these upstream interventions include the facilitation of more responsive local food systems, fit-for-purpose legislation and regulation, and renewed investment in early life course settings (e.g. schools and early childhood education settings).
+We need strong leadership, coordination, and efficiency
+Our food system is complex and interconnected, involving all parts of our society from central government and large businesses to local growers, retailers, communities and our schools and homes. And we have seen that our food system is out of balance and is harming our health and wellbeing and our environment. To rebalance our food system a coordinated collective approach is essential. 
+Many other countries are recognising that their food systems are not secure and sustainable and not delivering for their populations, and so are moving to create coordinated systems and accountability. For example, a Standing Committee on Agriculture recently recommended to the Australian Parliament that Australia develop a comprehensive National Food Plan providing for the food security and appoint a Minister for Food.101 Canada 102 and United Kingdom 103 are also pursuing a more coordinated and strategic approach to their food systems.
+
+
+Our Recommended Priority Actions 
+Broad Recommendations
+Our broad recommendations are listed below. Each broad recommendation is matched with a number of specific recommendations in the next section, including who should be responsible for their delivery.
+
+	•	That those involved in shaping our food system create and/or further develop a unified food system for all New Zealanders.
+	•	That those involved in supporting our food system enable local communities, including hapu, iwi and Pacific communities to ensure that local parts of the food system meet their needs and aspirations.
+	•	That our central and local governments take action and use legislation, policy and regulation levers to create and foster healthy food environments for all New Zealanders.
+	•	That those involved in our food system take action to eliminate food insecurity for all New Zealanders.
+	•	That those involved in shaping our food system ensure that the work of transforming the food system is accompanied by a programme of data collection, research, monitoring and surveillance.
+
+Roles and Responsibilities
+Currently, our food system is largely shaped by commercial and economic imperatives.  There is a need to rebalance our food system to prioritise health and wellbeing, as well as address inequities in both access to healthy food and the health consequences of poor access to that food. As noted elsewhere in this report, these issues cannot be solved through our current market-based approach to our food system.  
+Our suggested reset of the food system will require leadership and action by multiple stakeholders across Aotearoa New Zealand. Central and local government has an important leadership role to play in rebalancing our food system. Our central and local government must work with the food industry to provide certainty about expectations from our food supply and encourage voluntary measures to help rebalance the food system, but because government and industry are unlikely to always have aligned goals for our food system, government must use a backstop of mandatory requirements when voluntary action is insufficient. Local communities also have an important role in self-determining and generating their own local solutions, and they must be empowered to do this by central and local government, as well as supported by the food industry where appropriate.
+
+Specific Recommendations
+Our specific recommendations are listed below, followed by a more detailed description for each recommendation. Some specific recommendations apply to more than one broad recommendation, in which case it is placed within the broad recommendation that fits best.
+Develop a unified food system for all New Zealanders
+Recommendation 1: 
+That the Minister of Health work with colleagues in Government, in partnership with communities to develop a National Food Strategy to deliver a rebalanced food system that upholds Te Tiriti, and prioritises the health and wellbeing of New Zealanders, Indigenous (Māori) rights, and protecting the environment, ahead of economic goals.
+Recommendation 2: 
+That the Minister of Health work with colleagues in Government to establish a cross-government entity and/or Ministerial responsibility for food and food security, which has overall accountability for the food system meeting the goals of the Food Strategy and covers health, social, primary industries, environment, education and trade, and ensures all cross-government policy considers the impact on food systems.
+Recommendation 3: 
+That the Minister of Health work with colleagues in Government to centre health and health equity within food system decision-making, by: 
+	•	centring health and health equity within the new food strategy, 
+ensuring that Aotearoa New Zealand’s Ministry of Health and Ministry for Primary Industries have equal input into the Joint Food System with Australia, 
+ensuring indigenous participation in Joint Food System decision making, and
+making changes to the Food Act to ensure that all risks to public health from the food system are recognised and acted on.
+Enable local communities
+Recommendation 4: 
+That the Minister of Health work with colleagues in Government, to resource and enable community leadership for local food systems including,
+	•	supporting community participation in local decision making, and local and national food system planning,
+supporting local government to develop and implement local and regional food strategies in partnership with local communities and local public health services/local health authorities, and
+supporting and learning from programmes which are working to improve local food environments. 
+
+Recommendation 5: 
+That the Minister of Health and colleagues in Government work with communities and hapu and iwi to support the growth and revitalisation of Indigenous Māori food systems and traditional kai knowledge and practices, including, 
+	•	recognition of Iwi boundaries and cultural needs and practices within those boundaries,
+protection and replenishment of mahinga kai including restoring waterways and Vegetation or fauna and flora, and
+resourcing iwi Māori partnership boards to monitor and report on the physical environment for food growing and gathering.
+Use legislation, policy and regulation levers to create and foster healthy food environments
+Recommendation 6: 
+That the Minister of Health work with colleagues in Government and industry to improve the nutritional content of food via a comprehensive reformulation programme, which will include compositional limits and mandatory labelling (in cooperation with Australia under the Joint Food System), and fiscal levers to drive reformulation of processed foods.
+Recommendation 7: 
+That the Minister of Health work with colleagues in Government to implement regulatory measures which aim to provide a healthy food environment for children and young people, including:
+	•	legislative restrictions on the marketing, advertising and sponsorship of unhealthy food and drinks which children and young people are exposed to, including digital content,
+healthy food and drink policies in schools and other child focused settings, and
+using fiscal measures to support children’s healthy food consumption, for example a levy on sugar-sweetened beverages.
+Recommendation 8: 
+That the Minister of Health work with colleagues in Government to review and amend the Local Government Act to strengthen the ability of local government to take action to improve local food environments, including in protecting areas significant for food production and preventing food deserts.
+Eliminate food insecurity for all New Zealanders
+Recommendation 9: 
+That the Minister of Health work with colleagues in Government to support a more resilient and sustainable approach to ensuring food security for all New Zealanders, including:
+	•	sustained funding of government led initiatives such as MSD’s Food Secure Communities work programme, 
+resourcing community organisations and local authorities to build resilient, mana-enhancing approaches such as food co-operatives, māra kai and community gardens, and
+building on lessons from events such as COVID-19 and Cyclone Gabrielle to build resilient food systems and networks.
+Recommendation 10:
+That the Minister of Health work with colleagues in Government to support food security and nutrition in pregnancy, breastfeeding and childhood through targeted interventions including:
+	•	providing income support from pregnancy through first 1000 days,  
+extended parental leave policies, 
+working with existing providers to increase the provision of support for breastfeeding, and
+expanding food in schools programmes (e.g. Ka Ora Ka Ako) to ensure that all children experiencing food insecurity have access to nutritious food in education settings.
+Recommendation 11: 
+That the Minister of Health work with colleagues in Government to strengthen actions to tackle poverty and reduce cost-of-living and food affordability pressures, including:
+	•	implementing fiscal measures to reduce the cost of fruit and vegetables and other core foods or increase income available for healthy food, and
+working with the Grocery Commissioner to ensure actions to diversify the food supply result in improvements in food security.
+Embed a programme of data collection, research, monitoring and surveillance within our food system
+Recommendation 12: 
+That the Minister of Health work with colleagues in Government to fund implementation of regular national nutrition surveys to monitor dietary intake and identify priorities for nutrition-related policy. 
+Recommendation 13: 
+That the Minister of Health work with colleagues in Government to develop and implement a national monitoring framework to provide resources, data and tools assess the impacts of local and national food system interventions and policies on health and wellbeing, as part of a National Food Strategy. 
+
+Develop a unified food system for Aotearoa New Zealand 
+This report has outlined that our food system is out of balance and is harming our health and wellbeing and our environment. To rebalance our food system a coordinated collective approach is essential. A national unified food system for Aotearoa New Zealand must uphold Te Tiriti o Waitangi and recognise and support Indigenous (Māori) food sovereignty.
+The Directors of Six National Science Challenges have recommended that a National Food Strategy is needed, to bring together all parts of central and local government, business, Iwi and hapu and communities to articulate shared goals and individual and collective responsibilities and actions.104 The PHAC strongly endorse this recommendation.  
+Central government creates the legislative, regulatory and policy settings for the food system. Stakeholders support central government taking a leadership role in creating a unified food system. Food crosses almost every ministerial or government portfolio, with multiple agencies across the government sector with a role in the food system. Strong, coordinated, and efficient leadership is needed to unify this system and take accountability for implementing the food strategy. This could be achieved through a Ministerial role or through an agency with cross cutting responsibility for the food system.  
+
+Stakeholders say:
+We need central leadership
+Stakeholders identified that central government action is required to improve access to healthy food for all New Zealanders. Addressing the determinants of access to healthy food involves all-of-government action. A long-term policy approach would protect progress from political cycles, competing economic interests and lobbying.
+This top-down leadership needs to be complemented with well-resourced bottom-up action, so that communities have agency and the ability to develop and deliver their own solutions. Marrying top down and bottom-up approaches would foster stronger local food systems.
+Many stakeholders supported the development of a National Food Strategy in partnership with Māori. It would cover food access and security, sustainability, distribution, and local food systems. Central government would lead while fostering local solutions.
+“Those involved in food insecure communities…discussed that any solution other than providing a more coordinated equitable society was essentially an ambulance at the foot of the hill or a sticking plaster solution. Their focus and intention was on the need for a National Food Strategy in Aotearoa New Zealand.”
+Jack Keeys, Mana Kai Initiative
+“A local food system agency should be under Health… we need a Minister for Community Resilience or Wellbeing, and I think food resilience should be the core of this entity.“ 
+Julio Bin, Healthy Families South Auckland
+
+
+
+Recommendation 1: 
+That the Minister of Health work with colleagues in Government, in partnership with communities, to develop a National Food Strategy to deliver a rebalanced food system that upholds Te Tiriti, and prioritises the health and wellbeing of New Zealanders, Indigenous (Māori) rights, and protecting the environment, ahead of economic goals
+
+We have heard the calls for unifying Aotearoa New Zealand’s food system through a National Food Strategy expressed by a range of sectors, including public health experts, economic development and environmental stakeholders.3
+The purpose of a National Food Strategy is to create greater direction, coordination, and management of resources from government, locally, and from those in the food system such as farmers and growers, suppliers, manufacturers, distributers and retailers.105 The strategy will deliver a framework that connects these sectors and policies in a way that enables a food system which provides equitable access to locally produced, affordable and nutritious food. It will define clear roles and accountabilities for all actors within the food system.
+Development of the strategy should be centred on strong engagement with community and Māori throughout the design process. Successful implementation will rely upon collaboration across all in the food system.
+The strategy should place health, wellbeing and environmental goals at its heart, and clearly prioritise wellbeing of our people, including our farmers, and our whenua (land) and wai (water). It should be centred on food as a human right and the right to healthy food for positive health outcomes. 
+Internationally, there is a movement toward development and implementation of national food strategies, including in the UK, Canada and Australia, in order to address similar failures of their food systems to protect health, food security, and the environment.101-103 
+
+Recommendation 2: 
+That the Minister of Health work with colleagues in Government to establish a cross-government entity and/or Ministerial responsibility for food and food security, which has overall accountability for the food system meeting the goals of the food strategy and covers health, social, primary industries, environment, education and trade, and ensures all cross-government policy considers the impact on food systems.
+
+
+Recommendation 3: 
+That the Minister of Health work with colleagues in Government to centre health and health equity within food system decision-making, by: 
+centring health and equity within the new Food Strategy, and
+making changes to the Food Act to ensure that all risks to public health from the food system are recognised and acted on, and
+ensuring that Aotearoa New Zealand’s Ministry of Health and Ministry for Primary Industries have equal input into the Joint Food System with Australia, 
+ensuring Indigenous participation in Joint Food System decision making.
+
+Stakeholders also spoke to the fragmented leadership of food policy and the need for a central government agency to have a wellbeing focus on food. Those working directly with communities iterated the need for resilience and wellbeing, with food security at the centre of such an agency.3 Long term initiatives with appropriate funding for monitoring and evaluation can provide a future focused model, ensuring that those with greatest need are the first effected by change.
+Working outside of traditional agency systems and requiring joint deliverables for agencies under national policy statements gives clear and unified direction for action and is also more likely to result in meaningful change than if agencies work in silo on individual pieces of the food system. The Public Service Act (2020) sets out the shared purpose and principles of the public service and establishes ways of working across agencies, by allowing the Chief Executive of a departmental agency to operate outside of their strategic and policy framework.106
+Led by the Minister of Health, the health system has an important responsibility to ensure that our food system supports public health and wellbeing. Our health system faces rapidly escalating costs from our failing food system and has much to gain from effective measures to address the dietary causes of morbidity and mortality. The health sector must therefore play a key role in cross-agency work. 
+Aotearoa New Zealand’s food regulation system is joint with Australia. Aotearoa New Zealand has a unique opportunity to ensure strong health participation within the joint regulation system at all levels to ensure that the system meets health goals. Ways to ensure that dedicated health expertise is integral to Aotearoa New Zealand’s involvement with the joint food regulation system with Australia include exploring the potential for:
+Adding senior health official representation at the Food Regulation Standing Committee alongside MPI officials
+Resourcing health policy teams to support senior officials for the joint work programme  
+Minister of Health or Associate Minister of Health [or new Minister of Food] to attend the Food Ministers’ Meeting.
+Moreover, to uphold Te Tiriti obligations and achieve health equity gains, Aotearoa New Zealand also has the opportunity to support Indigenous participation in the joint system on both sides of the Tasman. 
+Enable local communities
+Our food environments are experienced locally – the place that we live determines the food we have access to, and our opportunities for involvement in the food system. Decisions taken locally regarding our food system shape our local environments, from land use to distribution of food outlets. 
+Our stakeholders emphasised that local communities are finding local solutions to improve their food environments and improve the health of their people, and these approaches need to be supported and made more sustainable.3 We heard about health authorities working with local government and communities to develop and implement local and regional food strategies and plans. We heard about the success of partnerships between health authorities and local communities, in programmes such as Healthy Families Aotearoa New Zealand. We heard about Māori leadership in revitalising and protecting Indigenous Māori knowledge and food systems.  
+To support and enable this local leadership and local solutions, we have made a number of recommendations to create ways for local communities, hapu, and iwi to ensure that local parts of the food system meet their needs and aspirations.
+Central government has a role to play to ensure local governments are adequately supported and resourced to ensure local food systems are accessible to their communities. Prioritisation of local food strategies and policies that are grounded in mātauranga Māori, that links production through to distribution, and collaboration with government agencies will be key to ensuring people can afford and access food at a local level. 
+
+Recommendation 4: 
+That the Minister of Health work with colleagues in Government, to resource and enable community leadership for local food systems including,
+	•	supporting community participation in local decision making, and local and national food system planning
+supporting local health authorities and local government to work in partnership with local communities to develop and implement local and regional food strategies 
+supporting and learning from programmes which are working to support local food environment improvements such as Healthy Families
+
+Regional and local empowerment does not come from a top-down approach, but by removing barriers that are preventing communities to self-determine their environments. Local community members and organisations are in tune with local and cultural needs, so it is important that they lead or influence approaches and decisions for their community’s food environments. Pacific peoples’ communities, while not always geographically linked or “local", should also be empowered by this process. Pacific peoples and communities want to be supported to shape their environments and be part of decisions that affect their neighbourhoods and communities.107 
+
+Supporting Māori to improve the wellbeing of their local environment recognises the Crown’s obligation of applying the treaty principle of tino rangatiratanga. It is important that communities are supplied with the tools and support to create and implement their own solutions that work for them. Kimiora Trust provides whānau and communities with training and guidance on choosing more sustainable and resilient food options, to improve mental and physical wellbeing. This teaching is grounded in the principles of mātauranga (indigenous knowledge), kaitiakitanga (guardianship), and rangatiratanga (leadership). Kimiora Trust is an organisation based in Whanganui set up in 2012 to support families who have been affected by suicide, abuse, or domestic violence.
+Communities are already working together to deliver fresh, healthy, and nutritious food. To rapidly scale-up and build on this success, providing a dedicated financial resource to equip groups with what they need to address the power imbalance in the system that currently favours commercial food providers. Targeting this resource to communities we know have the greatest imbalances, such as those with a high density of fast-food outlets, would promote food-security and equitable outcomes for whānau. 
+Health authorities can play a key role in supporting communities to ensure local food systems can meet their health and wellbeing needs. For example, Healthy Families NZ is a large scale national programme funded by Te Whatu Ora,  with local teams delivering kai-focused initiatives currently at 11 locations throughout Aotearoa New Zealand.23 Healthy Families plays a large role in enabling community-led development, ensuring local food movements within communities. They collaborate with local leaders and organisations to identify, design, and implement changes, and this active participation of communities helps to embed integrated, community-wide local food systems. Through their work they have found that communities have the solutions to their own food insecurity problems.
+
+Recommendation 5: 
+That the Minister of Health and colleagues in Government work with hapu and iwi to support the growth and revitalisation of Indigenous Māori food systems and traditional kai knowledge and practices, including, 
+	•	recognition of Iwi boundaries and cultural needs and practices within those boundaries, and
+protection and replenishment of mahinga kai including restoring waterways and forests, and
+resourcing iwi Māori partnership boards to monitor and report on the physical environment for food growing and gathering 
+
+
+
+As noted earlier in this report, the process of colonisation in Aotearoa New Zealand has eroded Māori ways of life, knowledge and culture – including in terms of food and food systems. There is a need to foster our Indigenous Māori food systems, traditional knowledge and practices. Food growing, gathering, preparing, eating, and sharing encompass fundamental relationships with te taiao (the natural world), tino rangatiratanga (self-determination or sovereignty), handing down of mātauranga (Māori knowledge), and strengthening of connections to whakapapa (ancestry). Specific actions that can be taken to achieve this recommendation include:
+Cultural integrity and connection to whenua: recognise the importance of the strong connection between Māori and their traditional lands. Support for food sovereignty should recognise the cultural significance of specific foods and practices tied to the land, fostering a sense of identity and well-being. 
+Sustainable resource management: advocate for sustainable farming and harvesting practices that align with Māori values of kaitiakitanga (guardianship) and environmental stewardship. This involves preserving the health of the land, water, and ecosystem for future generations.  
+Empowering local communities: support initiatives that empower local Māori communities in food production, distribution and decision-making.  This could involve strengthening local networks, promoting traditional knowledge, and fostering economic opportunities within Māori communities. 
+Recognition of Traditional Knowledge: acknowledge and incorporate traditional Māori knowledge and practices related to food cultivation of cultural heritage and ensure that traditional wisdom is valued in contemporary food systems. 
+Collaboration and Partnership: encourage collaboration between Māori communities, iwi leaders and post treaty settlement entities, local government bodies, and non-governmental organisation to create policies that reflect Māori aspirations for food sovereignty and environmental protection.
+We have seen that the way our food is produced has large impacts of our physical environment and our health, making a large contribution towards our greenhouse gas emissions impacting our environment in the longer term via climate change, as well as shorter term impacts of pollution on our health such as nitrate levels in our water. Moreover, our food system relies on our physical environment as a resource – the land to grow food, the clean waterways to irrigate and support traditional food sources. Therefore, protecting our physical environment both from and for our food system is crucial. While responding to broader environmental problems like climate change is beyond the scope of this report, we note that the government has levers that can protect the physical environments where food is produced and gathered, as well as the environments in which food is purchased and consumed.
+
+Stakeholders say:
+Local food systems work 
+“There is a disintegration of local food systems…By placing all our emphasis and resources on exporting our food, we’ve forgotten to ensure we have the ability to produce good food for New Zealanders.” 
+Angela Clifford, Eat Aotearoa New Zealand
+Community food production and distribution includes places like marae, schools, community gardens, and churches. Stakeholders identified many successful examples of local initiatives:
+The Ministry of Social Development funds emergency food, invests in distribution infrastructure, and self-sustainability initiatives like māra kai.
+Local growing collaborations were talked about in terms of improving people’s knowledge, skills, and social cohesion as well as providing access to healthy, homegrown foods. Stakeholders referred to the benefits of community-building, personal skill development, and social connectedness. 
+Pā to Plate provides food for those who live in neighbouring areas to papakāinga, and they plan to expand their distribution to reach urban Māori who want food from their papakāinga.
+“Enable regions to identify ways forward…Give them some national mandate, give them funding to try things, to test things, to get things out there.”
+Health Coalition Aotearoa New Zealand
+
+Use legislation, policy and regulation levers to create and foster healthy food environments
+While central and local government needs to work alongside the food industry to encourage voluntary measures to rebalance the food system, government must use a backstop of mandatory levers if this voluntary action does not occur or is happening too slowly. Policy indicators for this could be developed as part of a National Food Strategy. Below are our recommendations regarding legislative, policy and/or regulatory levers that government can pull to create and foster healthy food environments.  
+
+Recommendation 6: 
+That the Minister of Health work with colleagues in Government and industry to improve the nutritional content of food via a comprehensive reformulation programme, which will include compositional limits and mandatory labelling (in cooperation with Australia under the Joint Food System framework), and fiscal levers to drive reformulation of processed foods.
+
+A major driver of the health impacts of our current food system is the content of our food supply, in particular the increasing availability and affordability, and portion sizes of foods that are high in kilojoules, saturated fats, sugars and/or salt. Aotearoa New Zealand’s Minister for Food Safety recently noted that food composition and labelling standards are key levers for shaping our food supply, with a view to tackling obesity and non-communicable diseases.41 Food reformulation is the process of changing the composition of processed food products to make them healthier.108 
+For example, in recent years the food industry has been voluntarily reformulating some processed foods  (particularly breads and cereals), resulting in a meaningful reduction in the amount of sodium and sugar within these reformulated products. Health New Zealand contracts the National Heart Foundation to work with food industry to implement food reformulation targets for sodium and sugar in manufactured foods. 109
+In 2020, a panel of 52 public health experts examined 42 indicators of food environment policy and infrastructure support within Aotearoa New Zealand. Reducing salt, sugar and saturated fat intake through food reformulation was one of the five key policy actions recommended by the panel, as a means of propagating healthy food environments.110 The World Health Organisation (WHO) recommends the reduction of salt in food and meals and elimination of trans-fats from the food supply as one of their ‘best buys’ toward preventing and controlling non-communicable disease.111 As well as reducing the amount of these nutrients within processed foods, reformulation (and fortification) can also target micronutrient deficiencies within a population. A national nutrition survey, discussed later in this report, would assist with identification of these micronutrients.112
+A reformulation programme could include reduction of salt, sugar, and saturated fat in processed foods. There is evidence from the BODE3 modelling study that a comprehensive programme to reformulate these components in Aotearoa New Zealand would both prevent a substantial volume of health loss, as well as be highly cost-effective.113  
+Mandatory front-of-pack nutrition labelling can also drive reformulation; front-of-pack labelling such as the Health Star Rating is likely to have driven the voluntary reformulation of some products in Aotearoa New Zealand.114  Labelling could also conceivably inform purchasing choices, by helping to differentiate the healthier foods from less healthy foods. However, with respect to this second plausible benefit, a recent study of Aotearoa New Zealand’s Health Star Rating system found that while it had led to industry reformulation, there was no evidence that it had any impact on household food purchasing.114 Stakeholders expressed frustration at the voluntary nature of the current Health Star Rating, calling to make this labelling mandatory and comprehensive across processed foods.3 A large combined study of the Health Star Rating in Aotearoa New Zealand and Australia found that products that were initially unhealthy were less likely to adopt the Health Star Rating, leading the authors to suggest that mandatory labelling is likely to have the greatest potential to improve the healthiness of packaged foods.115
+Because of our joint food regulation system with Australia, any changes to food composition and front-of-pack labelling must currently occur within this joint system. This is an ongoing challenge, and one that reinforces the need ensure that Aotearoa New Zealand’s Ministry of Health and Ministry for Primary Industries have equal input into the Joint Food System with Australia (Recommendation 3).
+
+Fiscal policies, such as levies applied to macronutrients such as sugar, and subsidies on fruit and vegetables, show consistent evidence of equitable improvements in healthy diets worldwide.116,117 There is growing international evidence on the impact of different fiscal measures to reduce the affordability of unhealthy food options (e.g. a levy), and to increase the affordability of healthy options (e.g. removing tax on certain items).98,118 Evidence from Aotearoa New Zealand shows that increasing the price of saturated fat, sugar, and salt would increase total healthy food purchases.119 Fiscal policies could form a key part of a package of interventions aiming to drive reformulation, as they can set acceptable limits above which levies apply, providing an incentive for industry to provide products which do not attract the levy (or which attract a subsidy). 
+
+Stakeholders say:
+Industry has a vital role to play
+While commercial interests were viewed as part of the problem with our food system, stakeholders noted that industry can be part of the solution. Examples included:
+Salt and sugar reformulations were seen as positive changes to processed foods and drinks, particularly breakfast cereal and bread.
+“We are now starting to see some excellent progress in the area of sugar reduction...it’s the food companies that deserve the credit as they’re the ones actually doing the salt and sugar reduction.”
+Dave Monro, Heart Foundation
+The voluntary Health Star rating (HSR) uses a rating scale of 0.5 to 5 stars on packaged food. Some stakeholders felt HSR had merit, which aligned with their views on the role of consumer choice. Other stakeholders felt the focus on processed food, HSR’s voluntary nature and the inclusion of healthy ingredients to mask unhealthy ones, as downsides.
+“I do think the Health Star Rating in terms of front of pack labelling is a good start. I think it’s very problematic that it’s voluntary because it’s being used very selectively by industry”
+Professor Cliona Ni Mhurchu, University of Auckland
+Food waste minimisation, or ‘food rescue’, improves access to healthy food. 
+“There’s a lot of work that goes on in what we call food rescue, that’s food which is unable to sold for various reasons but is safe to eat and is recovered and redistributed…We’re working towards being zero food waste and food rescue is a key component of delivering that.“ 
+Melissa Hodd, Foodstuffs NZ
+
+
+The environment Aotearoa New Zealand children are growing up in shapes their experience and expectations around food, shaping their diet and influencing their health across the life course. Using regulatory levers to protect children is therefore a key factor in addressing the current and future health impacts of our food system. We therefore recommend a suite of measures aimed specifically at proving a healthy food environment for our children.
+
+Recommendation 7: 
+That the Minister of Health work with colleagues in Government to implement regulatory measures which aim to provide a healthy food environment for children and young people, including:
+	•	legislative restrictions on the marketing, advertising and sponsorship of unhealthy food and drinks which children and young people are exposed to, including digital content.
+healthy food and drink policies in schools and other child focused settings.
+using fiscal measures to support children’s healthy food consumption, for example a levy on sugar-sweetened beverages.
+
+Pervasive marketing of unhealthy food and drink impacts negatively on children’s food intake and exacerbates diet-related inequities. Children in Aotearoa New Zealand are exposed to high levels of advertising of unhealthy food: for example, the Kids’ Cam study found that children in 2014/15 were exposed to unhealthy food and drink marketing over 68 times a day, more than twice the amount of advertising they see for healthy products.50 Māori children are exposed to unhealthy food and drink marketing around two times more than non-Māori.120 Once again we see the deep imbalance in our food system, tilted heavily towards unhealthy food and outcomes. Aotearoa New Zealand children are increasingly being exposed to marketing of unhealthy food via online channels, with the use of children influencers securing brand deals and online games.121 
+Convenience stores in areas surrounding low decile schools have twice as many advertisements than areas around medium or high decile schools. Approximately half of advertisements were for unhealthy food or beverages, and less than 10% were for healthy products.120
+The marketing of unhealthy food to children exploits developmental vulnerabilities.121 The World Health Organization have noted that sophisticated marketing campaigns are contributing to overweight and obesity in children by influencing what types of foods our children eat,121,122 and it has been suggested that Aotearoa New Zealand is falling behind in our efforts to protect children from such advertising.123 This is because our mechanism for protecting children is an industry led self-regulatory code for advertising foods and beverages to children. As such, there is a pressing need to introduce mandatory legislative restrictions on the marketing, advertising and sponsorship of unhealthy food which children are exposed to.  
+Steps to achieve this could include:  
+reviewing definitions of composition limits to enable clear definitions of unhealthy food (which is also likely to drive reformulation),  
+enabling a Grocery Commissioner to engage on advertising codes, investigate and determine code breach complaints, impose penalties and monitor compliance,  
+identify the difference between advertisements aimed at children and those children are exposed to, and
+amend the Food Act to allow local government to create by-laws when considering licensing of new food premises, advertisement on public transport etc. 
+Stakeholders say:
+Advertising is part of the problem
+The commodification of food and advertising of food were identified as  barriers to the promotion of healthy food. 
+Advertising of unhealthy foods, and foods with a ‘health halo’ were seen as negative influences on the consumption of healthy food, particularly when these were targeted at children.
+Restrictions on advertising would make unhealthy food less visible and attractive. Other measures could affect the placement of food outlets. These were seen as very helpful measures and especially beneficial to children and people living in lower income communities so that they are not exposed in any environment – online included.
+“Children need to be exposed to the right messages…The advertisements for sugary drinks and unhealthy foods...The way supermarkets are laid out at eye level with cheaper, not so good foods, and more expensive not so good foods. Whole aisles dedicated to alcohol and sugary drinks. A quick whisk through the vegetable and fruit section.“
+Aotearoa New Zealand Nutrition Foundation
+
+Further protection of children in the environments in which they learn, and play can be achieved through influencing the food available in those settings. The Ministry of Health has developed a guideline for foods that are made available within primary school, kura, secondary school or wharekura.124 Schools are guided to a) ensure that the school offers a variety of healthy foods from the four food groups, b) prepare or purchase food with or contain minimal saturated fat, salt and added sugar, and should be mostly whole or less processed, and c) only offer water and unflavoured milk as drink options. The Ministry provides similar guidelines for early learning centres,125 and also for other types of organisations.126 However, while these guidelines are intended to inform policies within these settings, they remain voluntary when it comes to implementation. Universal healthy food and drink policies in education and other child focused settings, in line with these guidelines would protect and promote health and wellbeing and education outcomes for children.
+Specific policy initiatives to target key dietary harms for NZ children and young people are also needed. Sugar-sweetened beverages are a key source of sugar in children’s diets, with non-alcoholic beverages, including fruit juice and fruit drinks being major contributors of added sugars in New Zealanders’ diets. In 2008/09, they accounted for 17% of total sugars intake and intakes were highest for those aged 15-30 years.127 Sugar-sweetened beverage (SSB) levies are one of the most widely used obesity prevention measures in the Pacific region. One-third of Pacific Island countries and territories (PICTs) have increased SSB levies to levels recommended by WHO for achieving health benefits since 2000.128 Multiple other countries have implemented levies on sugar-sweetened beverage, including the United Kingdom, Mexico, France, Finland and some regions in the USA, with reductions in purchasing and intake.129
+
+In Aotearoa New Zealand, there is support for taxes on sugary drinks, particularly if the money is used to make healthy food more available and affordable, Government action to reduce the cost of healthy food and providing free healthy lunches at schools.130 There is also evidence that it would be effective at improving health: one Aotearoa New Zealand study found that just adding a 20% tax to sugar-sweetened carbonated drinks would prevent 0.2% of all deaths in Aotearoa New Zealand per year, which is comparable to the number of annual deaths from cervical cancer.131
+A sugar-sweetened beverage levy programme should: 
+have a phased implementation to encourage industry reformulation to avoid the levy,
+be tiered to ensure that those beverages with the highest sugar content attract the highest levy, 
+use levy proceeds to fund care for health consequences of excessive consumption where feasible, e.g. oral health for children, and
+considering levies on other high sugar food common in children’s diets, outside of beverages (breakfast cereals, muesli bars, etc.). 
+
+Recommendation 8: 
+That the Minister of Health work with colleagues in Government to review and amend the Local Government Act to strengthen the ability of local government to take action to improve local food environments, including in protecting areas significant for food production and preventing food deserts.
+
+Geographical location is highly important when it comes to accessing food. Increased geospatial exposure to supermarkets, fruit and vegetable outlets and outlets that sell healthy food is associated with greater vegetable intake and reduced fast food/takeaway intake.132 On the other hand, increased exposure to convenience stores, fast food outlets, restaurants/cafes and takeaways is associated with reduced fruit and vegetable intake and increased fast food/ takeaway intake.118  
+Land is a key resource to ensure local food systems can operate, prioritising the localisation of growing, foraging, preparing, packaging, distributing, sharing, eating and recycling. Acquiring land for food production use often comes as a challenge. For example, there may be resource consent barriers, challenges with ownership or geographical location of the land. 
+Central government can play an active role in supporting local government and authorities to exercise their powers, including by-law powers, zoning and their long-term planning to protect, promote and maintain public health, through creating positive food environments. Local authorities are specifically allowed to make by-laws for protecting, promoting, and maintaining public health and safety under section 145(b) of the Local Government Act.133 As noted earlier in this report, this section of the Local Government Act clashes with the section of the Food Act that states that food cannot be defined as “unsafe or unsuitable merely because….its consumption in inappropriate quantities may damage a person’s health”. 
+
+There is a clear need for central government to ensure that local authorities are able to make food system-related by-laws that protect public health, without being superseded by the Food Act. Central government leadership provides assurance to regional and local government and articulates their roles and responsibilities. Local and regional specific delivery of services can continue, with the knowledge that legislation and regulation is a supporting factor.
+Central and local actions could include:  
+introduce zoning laws to limit fast food outlet density and marketing of unhealthy food, 
+integrate food access considerations in development and town planning, 
+integrate food growing and composting into urban design and land development planning, 
+supporting local healthy food enterprises through social procurement e.g. reduced rent of public spaces for local growers and producers, and
+identify and address regulatory and operational barriers to communities accessing land to grow food.
+
+Eliminate food insecurity for all New Zealanders
+All New Zealanders have a right to food as a resource for health and wellbeing, and yet as outlined earlier in this report, food insecurity is a worsening problem. Urgent actions are needed now to ensure that those New Zealanders who regularly experience food insecurity have access to the food they need. These include extending and expanding food provision initiatives such as those begun during the COVID19 pandemic (such as MSDs Food Secure Communities programme) and initiatives that prioritise the nutrition of young people such as Ka Ora Ka Ako. 
+Supporting local action, as identified earlier, is also key to giving local communities the tools to address their local food needs.  This approach also helps to sustainably prevent food insecurity in a way that enables the wellbeing and social connection aspects of food, as well as the nutritional ones. It is also important to address the factors which are driving food insecurity, primarily income poverty and the cost of food.
+
+Recommendation 9: 
+That the Minister of Health work with colleagues in Government to support a more resilient and sustainable approach to ensuring food security for all New Zealanders, including:
+	•	sustained funding of government led initiatives such as MSD’s Food Secure Communities work programme, and Ka Ora, Ka Ako
+resourcing community organisations and local authorities to build resilient, mana-enhancing approaches such as food co-operatives, māra kai and community gardens 
+building on lessons from events such as COVID-19 and Cyclone Gabrielle to build resilient food systems and networks.
+
+The Ministry of Social Development (MSD) works with communities and whānau experiencing food insecurity. It funds the provision of emergency food, invests in distribution infrastructure, and helps to resource self-sustainability initiatives such as social enterprises and māra kai.134 Successes have included the establishment of the Aotearoa New Zealand Food Network with three centres, and work to make local food environments more resilient in the emergence of the COVID-19 pandemic. There is a need to ensure that this scheme continues beyond the COVID-19 pandemic and receives ongoing adequate funding to enable other community groups to benefit from this funding.
+In addition, co-design and engagement with those experiencing hunger, including children and youth, needs to occur to ensure that initiatives that provide emergency food or other similar provisions are culturally relevant, effective, and mana-enhancing.  Kore Hiakai, the Zero Hunger Collective,2 have created guidelines for a ‘mana to mana’ approach to community food distribution.135 This approach recognises that receiving food from others may deeply impact our mana or sense of agency or sovereignty, which can lead to a state of whakamā which prevents people from seeking help. The ‘Mana to Mana’ approach places mana at the centre of food distribution practice, policy, frameworks and relationships.135 
+
+Recommendation 10: 
+That the Minister of Health work with colleagues in Government to support food security and nutrition in pregnancy, breastfeeding and childhood through targeted interventions including:
+	•	providing income support from pregnancy through the first 1000 days, and 
+extended parental leave policies, and 
+increasing the provision of support for breastfeeding and infant nutrition through the Kahu Taurima initiative, and
+expanding food in schools programmes (e.g. Ka Ora Ka Ako) to ensure that all children experiencing food insecurity have access to nutritious food in education settings
+
+Ensuring food security in childhood must be a key priority in the elimination of food insecurity. The First 1000 Days: Nutrition Matters for Lifelong Health booklet stands as a cornerstone initiative in Aotearoa New Zealand, Aotearoa New Zealand, acknowledging the critical window of the first 1000 days for shaping future health and wellbeing.  This invaluable resource, drawing on evidence and expert advice complied by the Australia and Aotearoa New Zealand Early Life Nutrition Working Party in 2016, provides evidence -based recommendations for parental and child nutrition throughout this crucial period, which includes pre-conception to toddlerhood.  By empowering families with this knowledge foundation, it is also a priority action.136 A 2010 study by Carter et al. 137 revealed a stark reality for Aotearoa New Zealand children: those from families with lower income face a significantly higher risk of food insecurity.  This study also highlighted the vulnerability of children in households of single parents.137
+Kahu Taurima is the joint Te Aka Whai Ora and Te Whatu Ora approach to maternity and early years (pre-conception to five years old, or the 'First 2000 days of life') for all whānau in Aotearoa New Zealand.138 Kahu Taurima will drive the creation of whānau centred service delivery through the redesign and integration of maternity and early years services. It aims to remove the barriers and silos to care, integrate our primary care, community and specialist services, deliver easy to navigate, well connected and culturally affirming health services for all wāhine and whānau, and make it easier to access extra support when required. There is a key opportunity for the health sector to ensure that this approach supports food security, in particular through supporting breastfeeding and infant nutrition, to create opportunities to support a healthier future for whānau. 
+Food provision in schools is a key measure for ensuring all children have access to nutritious food. To eliminate food insecurity amongst Aotearoa New Zealand children, food in schools programmes have a central role to play. For example, the Ministry of Education leads the Ka Ora, Ka Ako – Healthy School Lunches Programme, providing lunch to 220,000 school aged children who are in greatest need of support to ensure developmental, health, wellbeing and learning goals are met.139 The programme has a set of nutrition standards to ensure schools have a balanced menu from the four major food groups, with minimal saturated fat, salt and added sugar. This includes guidance for specific food categories, a traffic light system for classification, and minimum weights per meal based on student age.140 Benefits of this programme include the significant reformulation of providers’ products, which tend to be reformulated for the Ka Ora, Ka Ako programme, but are sometimes supplied externally too. The range of food supplied means children are exposed to new foods and a change to their palate, so children are asking for and wanting healthier foods. Families are reporting less food insecurity as a result of their children having access to a free school meal. 
+A 2021 evaluation of the pilot of the Ka Ora, Ka Ako programme found:139 
+improvements for all primary and intermediate learners in terms of the types of food available and consumed,
+improvements in fullness for learners who previously had insufficient food, with learners feeling an average of 20% fuller after lunch than before the programme,
+improvements in mental wellbeing by the most disadvantaged learners,
+a significant drop in the proportion of learners with low health quality of life, and 
+improvements for learners in terms of their physical and emotional functioning.
+
+Recommendation 11: 
+That the Minister of Health work with colleagues in Government to strengthen actions to tackle poverty and reduce cost-of-living and food affordability pressures, including:
+	•	implementing fiscal measures to reduce the cost of fruit and vegetables and other core foods or increase income available for healthy food, and
+working with the Grocery Commissioner to ensure actions to diversify the food supply result in improvements in food security.
+
+Income is a key social determinant of health, and a barrier to accessing food for many people. Our stakeholders told us that lack of income is a key driver of food insecurity. Actions taken by Government to reduce poverty in Aotearoa New Zealand, and to relieve cost-of-living pressures for those living in deprivation, are also actions that will improve access to healthy food for these populations. 
+There are many pathways by which we can address poverty and relieve cost-of-living pressures.  However, the work being undertaken by the Child Wellbeing and Poverty Reduction Group,141 which sits within the Department of the Prime Minister and Cabinet, offers a blueprint for directing resources toward initiatives that will drive poverty reduction for those populations who need it the most.  This work must continue to be funded and prioritised. 
+Alongside poverty reduction measures which increase incomes, food affordability can be addressed by direct fiscal measures. Reducing prices on healthy items in supermarkets leads to increases in consumption of fruit and vegetable and other products,142 with the size of the impact increasing with the size of the discount. A large meta-analysis found that a 10% decrease in price (i.e., a subsidy) increased the consumption of healthy foods by 12%, and a 10% increase in price (i.e., tax or levy) decreased consumption of unhealthy foods and beverages by 6%.143 For indigenous populations, food pricing policies that both incentivise healthy products and disincentivise unhealthy products are the most effective interventions. The higher the discount off fruit and vegetables, the more likely they are purchased.98   Such fiscal measures should therefore be considered as an important tool for improving the affordability of healthy food, particularly for those on low incomes, and there is evidence that subsidising fruit and vegetables in this way could plausibly lead to health gain in Aotearoa New Zealand.144 
+Food affordability in Aotearoa New Zealand is also driven by the structure of the food retail market. The recent appointment of the Grocery Commissioner is likely to result in actions to diversify the food supply and in particular address the current supermarket duopoly. There is also a clear opportunity to ensure food security and local food sovereignty benefits are realised from any actions in this area. In particular, that true competition and fiscal measures to reduce the cost of healthy foods lead to decreased food prices.
+Embed a programme of data collection, research, monitoring and surveillance within our food system
+Up to date dietary intake data is essential to inform food and nutrition policy and regulatory decisions, funding, development and evaluation of nutrition programmes and services, especially for those most in need. Aotearoa New Zealand does not regularly collect detailed information on food and nutrient intake94 nutritional status and dietary risks at a national level.  The core New Zealand Health Survey includes some nutrition indicators and in years 2018/19 and 2019/20, a dietary habits questionnaire was completed as part of the New Zealand Health Survey. Monitoring of nutrition status requires blood and urine samples. A biomedical module was included as part of the New Zealand Health Survey in 2014/15 and as part of previous national nutrition surveys. Such information could increase our understanding of what New Zealanders are eating, help inform targeted interventions, and provide a base line for monitoring progress towards global nutrition targets.
+
+Recommendation 12: 
+That the Minister of Health work with colleagues in Government to fund implementation of a regular child and adult national nutrition survey(s) to monitor dietary intake and identify priorities for nutrition-related policy. 
+
+A national nutrition survey, designed to capture information on priority populations, is essential for developing and evaluating evidence-based policies and programmes to improve nutrition, address food insecurity, reduce nutrition related inequities, and ensure food safety and the development of accurate and appropriate standards. Using the data collected from a nutrition survey to design policy will support the realisation of the priorities of the Pae Ora health strategies.145 Assessing the population consumption of food and their contribution to nutrient intake will allow analysis against Aotearoa New Zealand’s existing Eating and Activity Guidelines,146 as well as allow us to measure our progress towards global nutrition targets.147
+A new survey should ensure that those populations who experience poorer access to healthy food and the consequent health outcomes can be identified to ensure intervention successes can be traced. Work has been undertaken to develop the tools and methods for a national nutrition survey between the University of Auckland, Massey University, the Ministry of Health and Ministry for Primary Industries.148 There are also potential benefits to other government agencies from the collection of national nutrition data. For example, the Ministry for Social Development would gain a better understanding of food insecurity, the Ministry for the Environment because food is a major contributor to greenhouse gas emissions, and the Ministry of Education to evaluate school food programmes. As such, we recommend that the Government, using a cross-agency collaborative approach recommended earlier, allocate appropriate and on-going funding for a national nutrition survey that delivers broader cross-agency insights.  Methodological scoping work 148 has identified that the survey will need to: 
+ensure questions on food security include all dimensions - access, availability, utilisation, stability, sustainability, and agency,
+ensure usual dietary behaviours are captured,
+ensure anthropometric measures and biomedical tests are fit for purpose and culturally safe,
+use the same 24-hour recall (dietary assessment) tool as Australia to allow food consumption data from both countries to be compared to inform opportunities in the joint food system with Australia,
+create a NZ food list and ensure the 24-hour dietary recall tool reflects food that all New Zealanders eat, and
+ensure the sample of people surveyed represents the population spread in age, gender, ethnicity and geographic location.
+
+
+Recommendation 13: 
+That the Minister of Health work with colleagues in Government to develop and implement a national monitoring framework to provide resources, data and tools to assess the impacts of local and national food system interventions and policies on health and wellbeing, as part of a National Food Strategy. 
+
+As well as implementing a national nutrition survey, we need to develop and implement a monitoring framework to assess the impacts of food system interventions and policies on health and wellbeing (as part of the National Food Strategy).  This should include identifying targets and monitoring progress on:
+food composition limits, reformulation, and labelling interventions,
+improving children’s food environments including exposure to advertising, access to healthy vs unhealthy food around schools etc.,
+key health indicators related to food, including children’s oral health, breastfeeding rates, food security, etc.
+Part of weaving a national monitoring framework within a National Food Strategy will be ensuring that clear communication of data collection and availability to those working within local food systems, with a view to strengthening these systems through use of these data.  There is a need to support the evaluation of community and local interventions to improve healthy food access and security by:
+Developing cost-effective tools for evaluation,
+Ensuring that local data on essential aspects of the food system and health impacts are available to communities at a granular level to assess effectiveness,
+Resourcing evaluation through training and dedicated funding, and 
+Ensuring that equity of impacts is assessed routinely.
+Finally, as part of a National Food Strategy that includes data collection and monitoring the function of our food system, we also need to facilitate research that examines each component of the system with a view to informing improvements in access to healthy food.  As such, there is a need to provide dedicated funding for research to address key challenges in the food system including:
+Developing innovative equity focused policies and programmes,
+Building in research translation and implementation opportunities for successful programmes,
+Prioritising research which is Māori or Pacific led and partners with affected communities,
+Prioritising research which builds mātauranga Māori
+Research which focuses on building a climate resilient equitable food system; and
+Ensuring research outcomes are used to target future food system investment.
+
+References
+1.	United Nations. United Nations Convention on the Rights of the Child, November 20, 1989.  https://www.ohchr.org/en.
+2.	Cameron S. Realising food secure communities in Aotearoa: A review of locally-led reports, plans and strategies: Kore Hiakai Zero Hunger Collective, 2023.
+3.	Vickers S, Andrews S, Williamson F. Stakeholder reflections on the food environment: A report for the Public Health Advisory Committee. Auckland, New Zealand: Synergia Ltd., 2023.
+4.	United Nations. Universal Declaration of Human Rights. Geneva, Switzerland: United Nations, 1948.
+5.	United Nations. International Covenant on Economic Social and Cultural Rights (ICESCR), and the International Covenant on Civil and Political Rights (ICCPR). Geneva, Switzerland: United Nations, 1966.
+6.	Human Rights Commissioner. Towards implementation of human and indigenous rights: Healthy food for positive health outcomes. Wellington, New Zealand: Human Rights Commission, 2023.
+7.	Te Tiriti o Waitangi: The Treaty of Waitangi. 1840. https://www.archives.govt.nz/discover-our-stories/the-treaty-of-waitangi.
+8.	Human Rights Commission. Te Mana I Waitangi: Human Rights and Te Tiriti o Waitangi. https://tikatangata.org.nz/human-rights-in-aotearoa/human-rights-and-te-tiriti-o-waitangi (accessed 7th February, 2024.
+9.	United Nations. Guiding principles on business and human rights: Implementing the United Nations “Protect, Respect and  Remedy” Framework. New York and Geneva: United Nations, 2011.
+10.	United Nations. Status of ratification interactive dashboard. https://indicators.ohchr.org/ (accessed 7th February 2024.
+11.	AO, IFAD, UNICEF, WFP, WHO. The State of Food Security and Nutrition in the World 2023. Urbanization, agrifood systems transformation and healthy diets across the rural–urban continuum. Rome, Italy: United Nations, 2023.
+12.	Whitaker RC, Phillips SM, Orzol SM. Food insecurity and the risks of depression and anxiety in mothers and behavior problems in their preschool-aged children. Pediatrics 2006; 118(3): e859-68.
+13.	Shankar P, Chung R, Frank DA. Association of Food Insecurity with Children's Behavioral, Emotional, and Academic Outcomes: A Systematic Review. J Dev Behav Pediatr 2017; 38(2): 135-50.
+14.	Public Health Advisory Committee. Position statement on Equity, Te Tiriti o Waitangi, and Māori Health. Wellington, New Zealand, 2023.
+15.	Feigin VL, Krishnamurthi RV, Barker-Collo S, et al. 30-Year Trends in Stroke Rates and Outcome in Auckland, New Zealand (1981-2012): A Multi-Ethnic Population-Based Series of Studies. PLOS ONE 2015; 10(8): e0134609.
+16.	Gurney J, Stanley J, Sarfati D. The inequity of morbidity: Disparities in the prevalence of morbidity between ethnic groups in New Zealand. Journal of comorbidity 2020; 10: 2235042x20971168.
+17.	Ministry of Health. Wai 2575 Māori Health Trends Report. Wellington, New Zealand: Ministry of Health, 2019.
+18.	Gu Y, Doughty RN, Freedman B, et al. Burden of atrial fibrillation in Māori and Pacific people in New Zealand: a cohort study. Internal Medicine Journal 2018; 48(3): 301-9.
+19.	Te Whatu Ora | Health NZ. Virtual Diabetes Register (VDR) web tool. 2023. https://tewhatuora.shinyapps.io/virtual-diabetes-register-web-tool/ (accessed 03/02/2023.
+20.	Gurney JK, Stanley J, York S, Rosenbaum D, Sarfati D. Risk of lower limb amputation in a national prevalent cohort of patients with diabetes. Diabetologia 2018; 61(3): 626-35.
+21.	Royal Society of New Zealand. Te Tapeke: Fair Futures in Aotearoa. Wellington, New Zealand, 2020.
+22.	Scientific Group for the UN Food Systems Summit. Food Systems – Definition, Concept and Application for the UN Food Systems Summit: A paper from the Scientific Group of the UN Food Systems Summit: United Nations, 2021.
+23.	Healthy Families New Zealand. National Kai Impact Report Food System Transformation in Aotearoa: Healthy Families New Zealand, 2022.
+24.	Hutchings J, Smith J, Taura Y, Harmsworth G, Awatere S. Storying Kaitiakitanga: Exploring Kaupapa Mäori land and water food stories. MAI Journal 2020; 9(3): 183-94.
+25.	Hutchings J. Te Mahi Mara Hua Parakore: A Maori Food Sovereignty Handbook. Ōtaki, New Zealand: Te Tākupu; 2015.
+26.	Moeke-Pickering T, Heitia M, Heitia S, Karapu R, Cote-Meek S. Understanding Maori food security and food sovereignty issues in Whakatane. MAI Journal 2015; 4(1): 29-42.
+27.	Baker¶ JHPTGCAGPSM. Hua Parakore: An indigenous food sovereignty initiative and hallmark of excellence for food and product production. MAI Journal 2015; 1(2): 131-45.
+28.	Commerce Commission. Market study into the retail grocery sector Welington, New Zealand: Commerce Commission New Zealand, 2022.
+29.	King M. The Penguin History of New Zealand. Rosedale, New Zealand: Penguin Books; 2003.
+30.	Ruru I, Kanz W, Afoa E, et al. A kete for implementing mahinga kai within the National Policy Statement for Freshwater Management 2020. Wellington, New Zealand: Maumahara Consultancy Services Ltd, Awamoana Ltd and the Ministry for the Environment, 2022.
+31.	Ministry for Primary Industries. The Future of Aotearoa New Zealand’s Food Sector Exploring Global Demand Opportunities in the Year 2050. Wellington, New Zealand: Ministry for Primary Industries, 2023.
+32.	Ministry for the Environment, Stats NZ. New Zealand’s Environmental Reporting Series: Environment Aotearoa 2022, 2022.
+33.	Burton D. Changing tastes: the food revolution in New Zealand. New Zealand Geographic 1992; 13.
+34.	Wiki J, Kingham S, Campbell M. Accessibility to food retailers and socio-economic deprivation in urban New Zealand. New Zealand Geographer 2019; 75(1): 3-11.
+35.	FAO, IFAD, UNICEF, WFP, WHO. The State of Food Security and Nutrition in the World 2021: Transforming food systems for food security, improved nutrition and affordable healthy diets for all. Rome, Italy: Food and Agriculture Organization of the United Nations, 2021.
+36.	New Zealand Government. Food Act 2014. 2014.
+37.	New Zealand Government. Pae Ora (Healthy Futures) Act 2022. 2022. https://www.legislation.govt.nz/act/public/2022/0030/latest/LMS575405.html.
+38.	Ministry for Foreign Affairs and Trade. NZ-Australia Closer Economic Relations (CER) Free Trade Agreement: Text and Resources. https://www.mfat.govt.nz/en/trade/free-trade-agreements/free-trade-agreements-in-force/nz-australia-closer-economic-relations-cer/resources/ (accessed 8th February 2024.
+39.	Employment MoBIa. Trans Tasman Mutual Recognition Arrangement. 1996. https://www.mbie.govt.nz/dmsdocument/3223-trans-tasman-mutual-recognition-arrangement-pdf.
+40.	Ministry for Primary Industries. The Food Standards Treaty. 1995. https://www.mpi.govt.nz/dmsdocument/21740-Agreement-between-the-government-of-Australia-and-the-government-of-New-Zealand-concerning-a-joint-food-standards-system.
+41.	Minister for Food Safety. Reform of our Joint Food Standards Setting System with Australia. Wellington, New Zealand, 2022.
+42.	Ministry of Health. Longer, Healthier Lives: New Zealand’s Health 1990 – 2017. Wellington, New Zealand: Ministry of Health, 2020.
+43.	PwC. The economic and social cost of type-2 diabetes: PwC, 2021.
+44.	Cleverley T, Meredith I, Sika-Paotonu D, Gurney J. Cancer incidence, mortality and survival for Pacific Peoples in Aotearoa New Zealand. N Z Med J 2023; 136(1586): 12-31.
+45.	Blakely T, Kvizhinadze G, Atkinson J, Dieleman J, Clarke P. Health system costs for individual and comorbid noncommunicable diseases: An analysis of publicly funded health events from New Zealand. PLOS Medicine 2019; 16(1): e1002716.
+46.	Barton B, Love T. Economic impact of excess weight in Aotearoa: Collating, evaluating, and updating the evidence. Auckland, New Zealand: Hāpai te Hauora and Sapere.
+47.	Ministry of Health. Annual Data Explorer 2021/22: New Zealand Health Survey. 2022. https://minhealthnz.shinyapps.io/nz-health-survey-2021-22-annual-data-explorer/ (accessed 13/12/2022.
+48.	Marek L, Hobbs M, Wiki J, Kingham S, Campbell M. The good, the bad, and the environment: developing an area-based measure of access to health-promoting and health-constraining environments in New Zealand. Int J Health Geogr 2021; 20(1): 16.
+49.	Healthy Location Index in Aotearoa New Zealand - ArcGIS dashboard. https://www.arcgis.com/apps/dashboards/04c40689c2f2456da5249fa25da57f82.
+50.	Watkins L, Gage R, Smith M, McKerchar C, Aitken R, Signal L. An objective assessment of children's exposure to brand marketing in New Zealand (Kids'Cam): a cross-sectional study. The Lancet Planetary Health 2022; 6(2): e132-e8.
+51.	Pearce J, Blakely T, Witten K, Bartie P. Neighborhood deprivation and access to fast-food retailing: a national study. Am J Prev Med 2007; 32(5): 375-82.
+52.	Gerritsen S, Park A, Wall C, Napier C, Exeter D, Paine SJ. Food insecurity Indicators of food insecurity and access to food assistance in the Growing Up in New Zealand cohort University of Auckland, 2023.
+53.	Ministry of Health. Household Food Insecurity Among Children in New Zealand. Wellington New Zealand: Ministry of Health, 2019.
+54.	Schleicher A. PISA 2022 Insights and Interpretations Report, 2023.
+55.	Moynihan PJ, Kelly SA. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. J Dent Res 2014; 93(1): 8-18.
+56.	Blecher E, Liber AC, Drope JM, Nguyen B, Stoklosa M. Global Trends in the Affordability of Sugar-Sweetened Beverages, 1990-2016. Prev Chronic Dis 2017; 14: E37.
+57.	Ministry of Health. Well Child / Tamariki Ora Programme Practitioner Handbook. Wellington, New Zealand: Ministry of Health, 2013.
+58.	Ministry of Health. Well Child Tamariki Ora Review Report. Wellington, New Zealand: Ministry of Health, 2020.
+59.	Myers CA. Food Insecurity and Psychological Distress: a Review of the Recent Literature. Curr Nutr Rep 2020; 9(2): 107-18.
+60.	Fang D, Thomsen MR, Nayga RM. The association between food insecurity and mental health during the COVID-19 pandemic. BMC Public Health 2021; 21(1): 607.
+61.	Cain KS, Meyer SC, Cummer E, et al. Association of Food Insecurity with Mental Health Outcomes in Parents and Children. Academic Pediatrics 2022; 22(7): 1105-14.
+62.	Utter J, Izumi BT, Denny S, Fleming T, Clark T. Rising food security concerns among New Zealand adolescents and association with health and wellbeing. Kōtuitui: New Zealand Journal of Social Sciences Online 2018; 13(1): 29-38.
+63.	Bruening M, Dinour LM, Chavez JBR. Food insecurity and emotional health in the USA: a systematic narrative review of longitudinal research. Public Health Nutr 2017; 20(17): 3200-8.
+64.	Pourmotabbed A, Moradi S, Babaei A, et al. Food insecurity and mental health: a systematic review and meta-analysis. Public Health Nutr 2020; 23(10): 1778-90.
+65.	Laraia BA, Gamba R, Saraiva C, Dove MS, Marchi K, Braveman P. Severe maternal hardships are associated with food insecurity among low-income/lower-income women during pregnancy: results from the 2012-2014 California maternal infant health assessment. BMC Pregnancy Childbirth 2022; 22(1): 138.
+66.	Nagata JM, Gomberg S, Hagan MJ, Heyman MB, Wojcicki JM. Food insecurity is associated with maternal depression and child pervasive developmental symptoms in low-income Latino households. J Hunger Environ Nutr 2019; 14(4): 526-39.
+67.	Lassale C, Batty GD, Baghdadli A, et al. Healthy dietary indices and risk of depressive outcomes: a systematic review and meta-analysis of observational studies. Mol Psychiatry 2019; 24(7): 965-86.
+68.	Ministry for the Environment, Stats NZ. New Zealand’s Environmental Reporting Series: Our freshwater 2020. Wellington, New Zealand: Ministry for the Environment, 2020.
+69.	Morgan TKKB. An indigenous perspective on water recycling. Desalination 2006; 187(1): 127-36.
+70.	United Nations. Food and Climate Change: Healthy diets for a healthier planet. https://www.un.org/en/climatechange/science/climate-issues/food (accessed 09/02/2024.
+71.	Poore J, Nemecek T. Reducing food’s environmental impacts through producers and consumers. Science 2018; 360(6392): 987-92.
+72.	Cronin-Fenton DP, Norgaard M, Jacobsen J, et al. Comorbidity and survival of Danish breast cancer patients from 1995 to 2005. British Journal of Cancer 2007; 96(9): 1462-8.
+73.	World Health Organisation. Compendium of WHO and other UN guidance on health and environment. Geneva: World Health Organisation, 2022.
+74.	Ministry for the Environment. Te Rārangi Haurehu Kati Mahana a Aotearoa: He Whakarāpopoto - New Zealand’s Greenhouse Gas Inventory: Snapshot. Wellington New Zealand: Ministry for the Environment, 2023.
+75.	Fanzo J. Achieving Food Security Through a Food Systems Lens. In: Béné C, Devereux S, eds. Resilience and Food Security in a Food Systems Context. Cham: Springer International Publishing; 2023: 31-52.
+76.	Jackson P, Rivera Ferre MG, Candel J, et al. Food as a commodity, human right or common good. Nature Food 2021; 2(3): 132-4.
+77.	Zerbe N. Food as a Commodity. In: Vivero-Pol JL, Ferrando T, de Schutter O, Mattei U, eds. Routledge Handbook of Food as a Commons. London, United Kingdom: Routledge; 2019: 155–70.
+78.	FrameWorks Institute. Framing the Food System: A FrameWorks Message Memo FrameWorks Institute, 2006.
+79.	Vandevijvere S, Mackay S, D'Souza E, Swinburn B. The first INFORMAS national food environments and policies survey in New Zealand: A blueprint country profile for measuring progress on creating healthy food environments. Obes Rev 2019; 20 Suppl 2: 141-60.
+80.	European C, Directorate-General for R, Innovation, Group of Chief Scientific A. Towards a sustainable food system – Moving from food as a commodity to food as more of a common good – Independent expert report: Publications Office; 2020.
+81.	Canfield M, Anderson MD, McMichael P. UN Food Systems Summit 2021: Dismantling Democracy and Resetting Corporate Control of Food Systems. Frontiers in Sustainable Food Systems 2021; 5.
+82.	Stats NZ. Food price index: September 2023. Wellington, New Zealand: Stats NZ, 2023.
+83.	Mackay S, Garton K, Gerritsen S, Sing F, B. S. How healthy are  Aotearoa New Zealand’s  food environments? Assessing the impact of recent food policies 2018-2021. Auckland, New Zealand: University of Auckland, 2021.
+84.	Ministry of Social Development. Quarterly Welfare Assistance Tier 1 Statistics, Hardship assistance statistics. Wellington, New Zealand, 2023.
+85.	Tipene-Leach D, McKelvie-Sebileau P. The impact of the COVID-19 Level 4 lockdown on food security among whānau of Decile 1 schools. MAI Journal 2021; 10(1): 30-3.
+86.	Walker RE, Keane CR, Burke JG. Disparities and access to healthy food in the United States: A review of food deserts literature. Health & Place 2010; 16(5): 876-84.
+87.	Dutko P, Ver Ploeg M, Farrigan T. Characteristics and Influential Factors of Food Deserts: U.S. Department of Agriculture, Economic Research Service, 2012.
+88.	Whitehead J, Davie G, de Graaf B, et al. Defining rural in Aotearoa New Zealand: a novel geographic classification for health purposes. N Z Med J 2022; 135(1559): 24-40.
+89.	Sushil Z, Vandevijvere S, Exeter DJ, Swinburn B. Food swamps by area socioeconomic deprivation in New Zealand: a national study. Int J Public Health 2017; 62(8): 869-77.
+90.	Soliman T, Greenhalgh S. Rethinking New Zealand’s food security in times of disruption Manaaki Whenua - Landcare Research, 2020.
+91.	Rush E, Obolonkin V. Food exports and imports of New Zealand in relation to the food-based dietary guidelines. European Journal of Clinical Nutrition 2020; 74(2): 307-13.
+92.	Crippa M, Solazzo E, Guizzardi D, Monforti-Ferrario F, Tubiello FN, Leip A. Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food 2021; 2(3): 198-209.
+93.	Environmental Protection Agency of the United States of America (EPA). From Farm to Kitchen: The Environmental Impacts of U.S. Food Waste. Washington D.C., USA: Environmental Protection Agency, 2021.
+94.	Te Aho O Te Kahu - Cancer Control Agency. Pūrongo Ārai Mate Pukupuku, Cancer Prevention Report. Wellington, New Zealand: Te Aho o Te Kahu - Cancer Control Agency, 2022.
+95.	Ministry of Health, University of Otago. A Focus on Nutrition: Key findings of the 2008/09 New Zealand Adult Nutrition Survey. Wellington, New Zealand: Ministry of Health, 2011.
+96.	Ministry of Health. NZ Food NZ Children: Key results of the 2002 National Children’s Nutrition Survey. Wellington, New Zealand: Ministry of Health, 2003.
+97.	Loring B, Robertson A. Obesity and inequities Guidance for addressing inequities in overweight and obesity. Copenhagen, Denmark: World Health Organisation (WHO), 2014.
+98.	Browne J, Lock M, Walker T, Egan M, Backholer K. Effects of food policy actions on Indigenous Peoples' nutrition-related outcomes: a systematic review. BMJ Glob Health 2020; 5(8).
+99.	McKelvie-Sebileau P, Swinburn B, Glassey R, Tipene-Leach D, Gerritsen S. Health, wellbeing and nutritional impacts after 2 years of free school meals in New Zealand. Health Promot Int 2023; 38(4).
+100.	Dahlgren G, Whitehead M. The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public Health 2021; 199: 20-4.
+101.	House of Representatives Standing Committee on Agriculture. Australian Food Story: Feeding the Nation and Beyond - Inquiry into food security in Australia. Canberra, Australia: Parliament of Australia,, 2023.
+102.	Minister of Agriculture and Agri-Food. Food Policy for Canada: Everyone At The Table: Ottawa, Canada, 2019.
+103.	Government of the United Kingdom. UK National Pathway UN Food Systems Summit 2021. London, United Kingdom: Government of the United Kingdom, 2021.
+104.	Berry R, Mann J, Todd J, et al. Aotearoa New Zealand needs a unified national food strategy. Wellington, New Zealand: National Science Challenges, 2023.
+105.	Coad J, Pedley K. Nutrition in New Zealand: Can the Past Offer Lessons for the Present and Guidance for the Future? Nutrients 2020; 12(11).
+106.	Public Service Act 2020. New Zealand; 2020.
+107.	Ministry of Health. Te Mana Ola: The Pacific Health Strategy. Wellington, New Zealand: Ministry of Health, 2023.
+108.	Onyeaka H, Nwaiwu O, Obileke K, Miri T, Al-Sharify ZT. Global nutritional challenges of reformulated food: A review. Food Sci Nutr 2023; 11(6): 2483-99.
+109.	Ni Mhurchu C, Eyles H, Choi YH. Effects of a voluntary front-of-pack nutrition labelling system on packaged food reformulation: The health star rating system in New Zealand. Nutrients 2017; 9(8).
+110.	Mackay S, Sing F, Gerritsen S, Swinburn B. Benchmarking Food Environments 2020 Summary. Auckland: The University of Auckland, 2020.
+111.	World Health Organisation. 'Best Buys' and other recommended interventions for the prevention and control of noncommunicable diseases. Geneva, Switzerland, 2017.
+112.	Activity and Nutrition Aotearoa. Key Micronutrient Challenges for Aotearoa: Activity and Nutrition Aotearoa, 2020.
+113.	Cleghorn C, Blakely T, Jones A, et al. Feasible diet intervention options to improve health and save costs for the New Zealand population. Wellington, New Zealand: University of Otago, 2019.
+114.	Bablani L, Ni Mhurchu C, Neal B, Skeels CL, Staub KE, Blakely T. Effect of voluntary Health Star Rating labels on healthier food purchasing in New Zealand: longitudinal evidence using representative household purchase data. BMJ Nutr Prev Health 2022; 5(2): 227-34.
+115.	Bablani L, Ni Mhurchu C, Neal B, Skeels CL, Staub KE, Blakely T. The impact of voluntary front-of-pack nutrition labelling on packaged food reformulation: A difference-in-differences analysis of the Australasian Health Star Rating scheme. PLOS Medicine 2020; 17(11): e1003427.
+116.	World Health Organisation. Implementing fiscal and pricing policies to promote healthy diets: a review of contextual factors. Geneva, Switzerland: World Health Organisation, 2021.
+117.	Director General - World Health Organisation. Political declaration of the third high-level meeting of the General Assembly on the prevention and control of non-communicable diseases, and mental health: Draft updated menu of policy options and cost-effective interventions for the prevention and control of noncommunicable diseases. Geneva, Switzerland: World Health Organisation, 2023.
+118.	Atanasova P, Kusuma D, Pineda E, Frost G, Sassi F, Miraldo M. The impact of the consumer and neighbourhood food environment on dietary intake and obesity-related outcomes: A systematic review of causal impact studies. Social Science and Medicine 2022; 299.
+119.	Waterlander WE, Jiang Y, Nghiem N, et al. The effect of food price changes on consumer purchases: a randomised experiment. The Lancet Public Health 2019; 4(8): e394-e405.
+120.	Brien A, Wu S, Maharaj S, et al. Junk food, sugary drinks and XL portion sizes: advertising on convenience stores near primary schools in Tāmaki Makaurau Auckland, Aotearoa New Zealand. Kōtuitui: New Zealand Journal of Social Sciences Online 2023; 18(1): 45-63.
+121.	World Health Organisation. A framework for implementing the set of recommendations on the marketing of foods and non-alcoholic beverages to children. Geneva, Switzerland: World Health Organisation, 2012.
+122.	World Health Organisation. Policies to protect children from the harmful impact of food marketing: WHO guideline. Geneva, Switzerland: World Health Organisation, 2023.
+123.	Egli V, Sing F, Mackay S, Te Morenga L. The Briefing: NZ falling behind on international rules to protect kids from food marketing. Wellington, New Zealand: Public Health Communication Centre, 2023.
+124.	Ministry of Health. Healthy Food and Drink Guidance – Schools. Wellington, New Zealand: Ministry of Health, 2020.
+125.	Ministry of Health. Healthy Food and Drink Guidance – Early Learning Services. Wellington, New Zealand: Ministry of Health, 2020.
+126.	Ministry of Health. Healthy Food and Drink Guidance for Organisations: Encouraging workplaces to support health and wellbeing. Wellington, New Zealand: Ministry of Health, 2020.
+127.	Ministry of Health. A Focus on Nutrition: Findings from the 2008/09 New Zealand Adult Nutrition Survey. Wellington: Ministry of Health, 2012.
+128.	Teng A, Puloka V, Signal L, Wilson N. Pacific countries lead the way on sugary drinks taxes: lessons for New Zealand. N Z Med J 2021; 134(1543): 137-40.
+129.	The Lancet Diabetes and Endocrinology. Sweet success: will sugar taxes improve health? Lancet Diabetes Endocrinol 2017; 5(4): 235.
+130.	Peniamina R, McNoe B, Signal L. Public awareness of cancer risk factors & support for prevention policies in Aotearoa New Zealand: A focus on alcohol and diet Wellington, New Zealand: University of Otago and the Cancer Society of New Zealand, 2023.
+131.	Ni Mhurchu C, Eyles H, Genc M, Blakely T. Twenty percent tax on fizzy drinks could save lives and generate millions in revenue for health programmes in New Zealand. N Z Med J 2014; 127(1389): 92-5.
+132.	Bivoltsis A, Christian H, Ambrosini GL, et al. The community food environment and its association with diet, health or weight status in Australia: A systematic review with recommendations for future research. Health Promot J Austr 2023; 34(2): 328-65.
+133.	Local Government Act 2002. New Zealand; 2002.
+134.	Ministry of Social Development. Food Secure Communities. 2023. https://www.msd.govt.nz/what-we-can-do/community/food-secure-communities/index.html.
+135.	Kore Hiakai - Zero Hunger Collective. Mana to Mana: Principles of 'Mana to Mana' practice in community food distribution. Wellington, New Zealand: Kore Hiakai - Zero Hunger Collective, 2021.
+136.	Hildreth JR, Vickers MH, Wall CR, Bay JL. First 1000 days: New Zealand Mothers' perceptions of early life nutrition resources. J Dev Orig Health Dis 2021; 12(6): 883-9.
+137.	Carter KN, Lanumata T, Kruse K, Gorton D. What are the determinants of food insecurity in New Zealand and does this differ for males and females? Aust N Z J Public Health 2010; 34(6): 602-8.
+138.	Te Whatu Ora - Health NZ, Te Aka Whai Ora - Māori Health Authority. Kahu Taurima - Maternity and Early Years. 2023. https://www.tewhatuora.govt.nz/for-the-health-sector/maternity/kahu-taurima/.
+139.	Vermillion Peirce P, Blackie E, Morris M, Jarvis-Child B, Engelbertz S. New Zealand Healthy School Lunch pilot Ka Ora, Ka Ako Interim Evaluation. Wellington, New Zealand: Ministry of Education, 2021.
+140.	Ministry of Education. Nutrition standards for Ka Ora, Ka Ako Healthy School Lunches Programme. Wellington, New Zealand: Ministry of Education, 2022.
+141.	Department of the Prime Minister and Cabinet. Child Wellbeing and Poverty Reduction Group. 2023. https://www.childyouthwellbeing.govt.nz/about.
+142.	Ni Mhurchu C, Blakely T, Jiang Y, Eyles HC, Rodgers A. Effects of price discounts and tailored nutrition education on supermarket purchases: a randomized controlled trial. Am J Clin Nutr 2010; 91(3): 736-47.
+143.	Afshin A, Peñalvo JL, Del Gobbo L, et al. The prospective impact of food pricing on improving dietary consumption: A systematic review and meta-analysis. PLoS One 2017; 12(3): e0172277.
+144.	Blakely T, Cleghorn C, Mizdrak A, et al. The effect of food taxes and subsidies on population health and health costs: a modelling study. The Lancet Public Health 2020; 5(7): e404-e13.
+145.	Ministry of Health. Setting the direction for our new health system: Pae Ora | Healthy Futures for all New Zealanders. 2023. https://www.health.govt.nz/new-zealand-health-system/setting-direction-our-new-health-system.
+146.	Ministry of Health. Eating and Activity Guidelines for New Zealand Adults: Updated 2020. Wellington, New Zealand: Ministry of Health, 2020.
+147.	World Health Organization. Global nutrition targets 2025: policy brief series Geneva, Switzerland, 2014.
+148.	Ni Mhurchu C, Te Morenga L, Mackay S, et al. Nutrition Survey Development: Final Report and Recommendations Auckland, New Zealand: National Institute for Health Innovation, 2023.

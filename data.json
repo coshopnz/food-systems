@@ -1,0 +1,1855 @@
+{
+  "nodes": [
+    {
+      "id": "environment",
+      "group": "core_flow",
+      "label": "Environment",
+      "icon": "\uf06c",
+      "color": "#2c5282",
+      "details": "Natural resource base: Land, Freshwater, Marine, Atmosphere, Biodiversity.",
+      "regen_details": "Focus on enhancing ecosystem health: soil carbon, water quality, biodiversity as foundational.",
+      "isRegenModified": true
+    },
+    {
+      "id": "inputs",
+      "group": "core_flow",
+      "label": "Managed Inputs",
+      "icon": "\uf085",
+      "color": "#2c5282",
+      "details": "Energy, Labour, Finance, Genetics, Fertilizers, Pesticides, Feed.",
+      "regen_details": "Shift to renewable energy, focus on ecological inputs (compost), reduced synthetics, diverse seeds.",
+      "isRegenModified": true
+    },
+    {
+      "id": "production",
+      "group": "core_flow",
+      "label": "Production",
+      "icon": "\uf722",
+      "color": "#2c5282",
+      "details": "Farming (Dairy, S&B, Horti), Aquaculture, Fishing.",
+      "regen_details": "Regenerative practices (cover crops, no-till), integrated systems, enhanced biodiversity.",
+      "isRegenModified": true
+    },
+    {
+      "id": "processing",
+      "group": "core_flow",
+      "label": "Processing",
+      "icon": "\uf275",
+      "color": "#2c5282",
+      "details": "Dairy factories, Meat works, Wineries, Packhouses.",
+      "regen_details": "Byproduct valorization, reduced waste/energy/water use.",
+      "isRegenModified": true
+    },
+    {
+      "id": "waste",
+      "group": "core_flow",
+      "label": "Waste/Recovery",
+      "icon": "\uf1b8",
+      "color": "#2c5282",
+      "details": "Landfills, Composting, Food rescue, Nutrient Recovery.",
+      "regen_details": "Maximize nutrient return (composting, digestion), enhanced food rescue, minimize landfill.",
+      "isRegenModified": true
+    },
+    {
+      "id": "distribution",
+      "group": "core_flow",
+      "label": "Distribution",
+      "icon": "\uf0d1",
+      "color": "#2c5282",
+      "details": "Transport, Storage, Wholesalers.",
+      "regen_details": "Reduced food miles, low-carbon transport, reverse logistics for cycling.",
+      "isRegenModified": true
+    },
+    {
+      "id": "markets",
+      "group": "core_flow",
+      "label": "Weekend Markets",
+      "icon": "\uf54e",
+      "color": "#2c5282",
+      "details": "Local farmers markets, community markets, seasonal markets, direct producer sales.",
+      "regen_details": "Direct farm-to-consumer, seasonal produce, community engagement, minimal packaging.",
+      "isRegenModified": true
+    },
+    {
+      "id": "consumption",
+      "group": "core_flow",
+      "label": "Consumption",
+      "icon": "\uf2e7",
+      "color": "#2c5282",
+      "details": "Households, Restaurants, Institutions.",
+      "regen_details": "Awareness of origins, reduced consumer waste, sustainable diets.",
+      "isRegenModified": true
+    },
+    {
+      "id": "restaurants",
+      "group": "core_flow",
+      "label": "Food Service",
+      "icon": "\uf2e7",
+      "color": "#2c5282",
+      "details": "All food service establishments including restaurants, cafes, institutional kitchens, and catering services.",
+      "regen_details": "Sustainable sourcing, waste reduction, local food partnerships, plant-forward menus, and energy-efficient operations.",
+      "isRegenModified": true
+    },
+    {
+      "id": "food_rescue",
+      "group": "core_flow",
+      "label": "Food Rescue",
+      "icon": "\uf1b8",
+      "color": "#2c5282",
+      "details": "Food recovery programs, redistribution networks, and waste prevention initiatives.",
+      "regen_details": "Enhanced food recovery and redistribution, minimizing waste and improving food access.",
+      "isRegenModified": true
+    },
+    {
+      "id": "school_food_programs",
+      "group": "community",
+      "label": "School Food Programs",
+      "icon": "\uf19d",
+      "color": "#c05621",
+      "details": "School lunch programs, nutrition education, and food gardens in educational settings.",
+      "regen_details": "School-based food and nutrition initiatives promoting healthy eating and food literacy.",
+      "isRegenModified": true
+    },
+    {
+      "id": "health_outcomes",
+      "group": "health",
+      "label": "Health Outcomes",
+      "icon": "\uf0f1",
+      "color": "#2f855a",
+      "details": "Population health indicators, nutrition status, disease prevalence.",
+      "regen_details": "Improved health outcomes through better food access and nutrition.",
+      "isRegenModified": true
+    },
+    {
+      "id": "nutrition_education",
+      "group": "health",
+      "label": "Nutrition Education",
+      "icon": "\uf19d",
+      "color": "#2f855a",
+      "details": "School programs, public health campaigns, dietary guidelines.",
+      "regen_details": "Enhanced nutrition literacy and healthy eating behaviors.",
+      "isRegenModified": true
+    },
+    {
+      "id": "maternal_child_nutrition",
+      "group": "health",
+      "label": "Maternal & Child Nutrition",
+      "icon": "\uf77d",
+      "color": "#2f855a",
+      "details": "First 1000 days nutrition, maternal health programs.",
+      "regen_details": "Improved early life nutrition and health outcomes.",
+      "isRegenModified": true
+    },
+
+    {
+      "id": "health_policy",
+      "group": "policy",
+      "label": "Health Policy",
+      "icon": "\uf0f1",
+      "color": "#6b46c1",
+      "details": "Health system policies, nutrition guidelines, public health initiatives.",
+      "regen_details": "Policies supporting health-focused food systems.",
+      "isRegenModified": true
+    },
+    {
+      "id": "food_security_policy",
+      "group": "policy",
+      "label": "Food Security Policy",
+      "icon": "\uf2e7",
+      "color": "#6b46c1",
+      "details": "Food access policies, security programs, emergency response.",
+      "regen_details": "Policies ensuring equitable food access.",
+      "isRegenModified": true
+    },
+    {
+      "id": "local_government",
+      "group": "policy",
+      "label": "Local Government",
+      "icon": "\uf66f",
+      "color": "#6b46c1",
+      "details": "Local food policies, community planning, infrastructure.",
+      "regen_details": "Local governance supporting sustainable food systems.",
+      "isRegenModified": true
+    },
+    {
+      "id": "community_food_distribution",
+      "group": "community",
+      "label": "Community Food Distribution",
+      "icon": "\uf0c0",
+      "color": "#c05621",
+      "details": "Local food networks, community kitchens, food banks.",
+      "isRegenModified": true
+    },
+    {
+      "id": "food_pricing",
+      "group": "economic",
+      "label": "Food Pricing",
+      "icon": "\uf201",
+      "color": "#c53030",
+      "details": "Pricing mechanisms, subsidies, taxes.",
+      "regen_details": "Economic incentives for healthy, sustainable food.",
+      "isRegenModified": true
+    },
+    {
+      "id": "economic_access",
+      "group": "economic",
+      "label": "Economic Access",
+      "icon": "\uf3d1",
+      "color": "#c53030",
+      "details": "Income support, food assistance, affordability programs.",
+      "regen_details": "Improved economic access to healthy food.",
+      "isRegenModified": true
+    },
+    {
+      "id": "health_monitoring",
+      "group": "monitoring",
+      "label": "Health Monitoring",
+      "icon": "\uf0f1",
+      "color": "#2c7a7b",
+      "details": "Health indicators, nutrition surveys, disease tracking.",
+      "regen_details": "Comprehensive health and nutrition monitoring.",
+      "isRegenModified": true
+    },
+    {
+      "id": "policy_evaluation",
+      "group": "policy",
+      "label": "Policy Evaluation",
+      "icon": "\uf201",
+      "color": "#6b46c1",
+      "details": "Policy impact assessment, program evaluation.",
+      "regen_details": "Evidence-based policy development and refinement.",
+      "isRegenModified": true
+    },
+    {
+      "id": "govt",
+      "group": "factor",
+      "label": "Govt & Policy",
+      "icon": "\uf66f",
+      "details": "MPI, MfE, Regs, Trade, Biosecurity.",
+      "regen_details": "Policies supporting regen transition, circular economy focus.",
+      "isRegenModified": true
+    },
+    {
+      "id": "economy",
+      "group": "factor",
+      "label": "Economy",
+      "icon": "\uf201",
+      "details": "Prices, $NZD, Costs, Inflation, Income.",
+      "regen_details": "Valuation of ecosystem services, circular business models.",
+      "isRegenModified": true
+    },
+    {
+      "id": "society",
+      "group": "factor",
+      "label": "Society & Culture",
+      "icon": "\uf0c0",
+      "details": "Preferences, Te Ao Māori, Food security, Health.",
+      "regen_details": "Alignment with Kaitiakitanga, community resilience.",
+      "isRegenModified": true
+    },
+    {
+      "id": "tech",
+      "group": "factor",
+      "label": "Technology",
+      "icon": "\uf2db",
+      "details": "AgTech, Precision Ag, Breeding, Alt proteins.",
+      "regen_details": "Tech for monitoring, cycling, waste valorization.",
+      "isRegenModified": true
+    },
+    {
+      "id": "biosecurity",
+      "group": "factor",
+      "label": "Biosecurity",
+      "icon": "\uf3ed",
+      "details": "Border control, Pest/Disease incursions.",
+      "regen_details": "System resilience through diversity.",
+      "isRegenModified": true
+    },
+    {
+      "id": "food_loss",
+      "group": "subsystem",
+      "label": "Food Loss",
+      "icon": "\uf1b8",
+      "details": "Losses occurring during production and processing: unharvested crops, byproducts, spoilage before retail.",
+      "regen_details": "Improved harvesting, byproduct valorization, upcycling.",
+      "isRegenModified": true
+    },
+    {
+      "id": "supermarkets",
+      "group": "subsystem",
+      "label": "Supermarkets",
+      "icon": "\uf54e",
+      "details": "Large retail chains, national distribution networks, standardized products.",
+      "regen_details": "Sustainable sourcing, reduced packaging, food waste reduction programs.",
+      "isRegenModified": true
+    },
+    {
+      "id": "grocers",
+      "group": "subsystem",
+      "label": "Grocers",
+      "icon": "\uf54e",
+      "details": "Local and specialty food stores, independent retailers, fresh produce markets.",
+      "regen_details": "Local sourcing, seasonal products, minimal packaging, community engagement.",
+      "isRegenModified": true
+    },
+    {
+      "id": "wholesalers",
+      "group": "subsystem",
+      "label": "Wholesalers",
+      "icon": "\uf54e",
+      "details": "Bulk distribution to retailers, food service providers, and institutions.",
+      "regen_details": "Efficient logistics, reduced food miles, sustainable packaging solutions.",
+      "isRegenModified": true
+    },
+    {
+      "id": "imports",
+      "group": "subsystem",
+      "label": "Imports",
+      "icon": "\uf0d1",
+      "details": "International food imports, raw materials, processed goods, specialty products.",
+      "regen_details": "Sustainable sourcing, reduced food miles, ethical trade practices, local alternatives.",
+      "isRegenModified": true
+    },
+    {
+      "id": "exports",
+      "group": "subsystem",
+      "label": "Exports",
+      "icon": "\uf0d1",
+      "details": "International food exports, value-added products, commodity trading, market access.",
+      "regen_details": "Value-added processing, sustainable trade, market diversification, quality standards.",
+      "isRegenModified": true
+    },
+    {
+      "id": "fertilizer_industry",
+      "group": "subsystem",
+      "label": "Fertilizer Industry",
+      "icon": "\uf275",
+      "details": "Manufacture and supply of synthetic and organic fertilizers, nutrient blends, and soil amendments.",
+      "regen_details": "Transition to bio-based and circular nutrient sources, reduced reliance on synthetics, closed-loop nutrient cycling, and minimized environmental impact.",
+      "isRegenModified": true
+    },
+    {
+      "id": "packhouses",
+      "group": "subsystem",
+      "label": "Packhouses",
+      "icon": "\uf275",
+      "details": "Facilities for sorting, grading, packing, and storing fresh produce before processing or distribution.",
+      "regen_details": "Energy-efficient operations, minimal waste, reusable packaging, and support for local supply chains.",
+      "isRegenModified": true
+    },
+    {
+      "id": "pest_management",
+      "group": "subsystem",
+      "label": "Pest Management",
+      "icon": "\uf188",
+      "details": "Practices and products for controlling pests, diseases, and weeds in agricultural systems.",
+      "regen_details": "Integrated pest management, biological controls, reduced chemical use, and ecosystem-based approaches.",
+      "isRegenModified": true
+    }
+  ],
+  "links": [
+    {
+      "source": "environment",
+      "target": "production",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Soil health → Crop yields",
+        "Rainfall patterns → Irrigation needs",
+        "Land quality → Production capacity",
+        "Biodiversity → Pest resistance"
+      ]
+    },
+    {
+      "source": "inputs",
+      "target": "production",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Seeds, Fertilizers → Farming",
+        "Energy costs → Production methods",
+        "Labor availability → Harvest timing",
+        "Capital → Farm infrastructure"
+      ]
+    },
+    {
+      "source": "production",
+      "target": "processing",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Raw milk → Cheese production",
+        "Grain harvest → Flour milling",
+        "Fruit crops → Juice processing",
+        "Livestock → Meat processing"
+      ]
+    },
+    {
+      "source": "imports",
+      "target": "processing",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Imported raw materials → Processing inputs",
+        "International ingredients → Processing requirements",
+        "Import volumes → Processing capacity",
+        "Import standards → Processing specifications"
+      ]
+    },
+    {
+      "source": "processing",
+      "target": "distribution",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Packaged goods → Warehouses",
+        "Canned products → Shipping containers",
+        "Dairy products → Cold chain logistics",
+        "Processed meat → Transport networks"
+      ]
+    },
+    {
+      "source": "distribution",
+      "target": "markets",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Wholesale → Retail stores",
+        "Logistics networks → Market access",
+        "Food hubs → Local markets",
+        "Direct distribution → Export markets"
+      ]
+    },
+    {
+      "source": "distribution",
+      "target": "wholesalers",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Bulk shipments → Wholesale distribution",
+        "Regional hubs → Wholesale networks",
+        "Cold chain → Wholesale storage",
+        "Logistics → Wholesale delivery"
+      ]
+    },
+    {
+      "source": "wholesalers",
+      "target": "supermarkets",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Bulk orders → Supermarket inventory",
+        "Wholesale pricing → Retail margins",
+        "Distribution networks → Store replenishment",
+        "Supply agreements → Product availability"
+      ]
+    },
+    {
+      "source": "wholesalers",
+      "target": "grocers",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Local produce → Independent stores",
+        "Specialty products → Grocery shelves",
+        "Small orders → Local retailers",
+        "Regional distribution → Community stores"
+      ]
+    },
+    {
+      "source": "supermarkets",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Supermarket chains → Household shopping",
+        "Retail promotions → Consumer choices",
+        "Store layouts → Purchase behavior",
+        "Private labels → Brand preferences"
+      ]
+    },
+    {
+      "source": "grocers",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Local stores → Community shopping",
+        "Specialty products → Niche markets",
+        "Fresh markets → Direct purchases",
+        "Independent retailers → Local economy"
+      ]
+    },
+    {
+      "source": "production",
+      "target": "food_loss",
+      "type": "waste",
+      "color": "#2c5282",
+      "examples": [
+        "Crop residues → Composting",
+        "Unharvested produce → Field waste",
+        "Animal byproducts → Rendering",
+        "Damaged crops → Food loss"
+      ]
+    },
+    {
+      "source": "processing",
+      "target": "food_loss",
+      "type": "waste",
+      "color": "#2c5282",
+      "examples": [
+        "Food byproducts → Recycling",
+        "Trim waste → Animal feed",
+        "Processing water → Treatment",
+        "Packaging materials → Waste stream"
+      ]
+    },
+    {
+      "source": "food_loss",
+      "target": "waste",
+      "type": "waste",
+      "color": "#2c5282",
+      "examples": [
+        "Unusable byproducts → Landfill",
+        "Non-recoverable waste → Disposal"
+      ]
+    },
+    {
+      "source": "waste",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Compost → Soil nutrients",
+        "Food waste → Biogas energy",
+        "Processed byproducts → Animal feed",
+        "Recycled water → Irrigation"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "waste",
+      "target": "environment",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Organic waste → Soil health",
+        "Compost application → Carbon sequestration",
+        "Nutrient recovery → Reduced runoff",
+        "Waste reduction → Lower emissions"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "waste",
+      "target": "processing",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Byproducts → New products",
+        "Waste streams → Ingredient innovation",
+        "Production remnants → Secondary processing",
+        "Fruit pulp → Specialty products"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "environment",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Climate → Seed selection",
+        "Soil types → Fertilizer needs",
+        "Ecosystem services → Reduced pesticide use",
+        "Water availability → Input decisions"
+      ],
+      "isRegenHighlight": false
+    },
+    {
+      "source": "production",
+      "target": "environment",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Farming → Carbon sequestration",
+        "Cover cropping → Improved soil health",
+        "Agroforestry → Enhanced biodiversity",
+        "Regenerative grazing → Ecosystem restoration"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "environment",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Climate → Seasonal diet choices",
+        "Local ecosystems → Regional food preferences",
+        "Environmental awareness → Sustainable food choices",
+        "Resource constraints → Consumption patterns"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "govt",
+      "target": "environment",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Environmental regulations → Land use",
+        "Conservation policies → Habitat protection",
+        "Emissions targets → Carbon management",
+        "Water regulations → Catchment management"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "production",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Subsidies → Farming practices",
+        "Land use policy → Production systems",
+        "Agricultural regulations → Farming methods",
+        "Rural development → Production capacity"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "markets",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Trade policies → Market access",
+        "Food safety regulations → Retail requirements",
+        "Labeling laws → Consumer information",
+        "Competition policy → Market structure"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "waste",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Waste management policies → Recycling",
+        "Landfill taxes → Waste reduction incentives",
+        "Food donation laws → Redistribution networks",
+        "Environmental standards → Waste processing"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Import regulations → Fertilizer availability",
+        "Chemical restrictions → Input options",
+        "Research funding → Seed development",
+        "Energy policy → Farm input costs"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "distribution",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Transport regulations → Logistics costs",
+        "Infrastructure investment → Distribution networks",
+        "Border controls → Product movement",
+        "Regional development → Distribution hubs"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Interest rates → Farm investment",
+        "Currency values → Import costs",
+        "Commodity prices → Input selection",
+        "Inflation → Production planning"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "production",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Commodity prices → Production levels",
+        "Labor market → Farm employment",
+        "Capital markets → Agricultural investment",
+        "Economic cycles → Production decisions"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "markets",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Exchange rates → Export competitiveness",
+        "GDP growth → Food spending",
+        "Market competition → Food pricing",
+        "Trade agreements → Market opportunities"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Income levels → Food choices",
+        "Price inflation → Purchasing patterns",
+        "Employment status → Food access",
+        "Economic inequality → Nutrition disparities"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "distribution",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Fuel prices → Transport costs",
+        "Labor costs → Distribution efficiency",
+        "Investment capital → Storage infrastructure",
+        "Market demand → Supply chain development"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "processing",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Capital availability → Processing capacity",
+        "Wage rates → Automation decisions",
+        "Energy costs → Processing methods",
+        "Market conditions → Value-added processing"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "production",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Consumer preferences → Farming methods",
+        "Cultural values → Product selection",
+        "Public concerns → Production standards",
+        "Social movements → Farming practices"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "markets",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Cultural values → Market demand",
+        "Social media → Food trends",
+        "Community preferences → Local markets",
+        "Social status → Premium product markets"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Dietary trends → Food purchases",
+        "Religious practices → Food selection",
+        "Cultural heritage → Traditional foods",
+        "Social gatherings → Communal eating"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "environment",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Public awareness → Conservation efforts",
+        "Social values → Environmental stewardship",
+        "Cultural practices → Resource management",
+        "Community action → Ecosystem protection"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "waste",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Consumer behavior → Food waste levels",
+        "Social norms → Recycling practices",
+        "Public education → Waste reduction",
+        "Community initiatives → Food recovery"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Cultural practices → Seed preservation",
+        "Traditional knowledge → Resource management",
+        "Social acceptance → Input selection",
+        "Community values → Input sourcing"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Precision ag → Input efficiency",
+        "Biotechnology → Seed development",
+        "Soil sensors → Fertilizer optimization",
+        "Digital platforms → Resource sharing"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "production",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Automation → Production efficiency",
+        "Data analytics → Yield optimization",
+        "Robotics → Labor replacement",
+        "Remote sensing → Crop management"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "processing",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "New tech → Processing methods",
+        "Automation → Processing efficiency",
+        "Food science → Novel preservation",
+        "Sensor technology → Quality control"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "waste",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Innovation → Waste reduction",
+        "Packaging technology → Extended shelf life",
+        "Processing innovations → Byproduct utilization",
+        "AI systems → Supply-demand matching"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "distribution",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Digital platforms → Supply chain logistics",
+        "IoT tracking → Inventory management",
+        "Route optimization → Transport efficiency",
+        "Blockchain → Supply chain transparency"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "markets",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "E-commerce → Direct market access",
+        "Digital platforms → Market reach",
+        "Analytics → Consumer targeting",
+        "Virtual marketplaces → Product discovery"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Food apps → Consumer purchasing",
+        "Smart kitchens → Consumption patterns",
+        "Online information → Food choices",
+        "Personalization algorithms → Recipe suggestions"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "environment",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Pest control → Ecosystem health",
+        "Invasive species management → Biodiversity protection",
+        "Disease prevention → Wildlife conservation",
+        "Border protection → Native species preservation"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "inputs",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Quarantine → Import restrictions",
+        "Pest risk assessment → Seed regulations",
+        "Disease prevention → Animal movement controls",
+        "Phytosanitary measures → Plant material access"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "production",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Disease control → Farm management",
+        "Pest monitoring → Intervention timing",
+        "Biosecurity protocols → Production practices",
+        "Traceability systems → Disease containment"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "processing",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Food safety → Processing standards",
+        "Pathogen control → Processing protocols",
+        "Contamination prevention → Facility design",
+        "Biosecurity measures → Processing regulations"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "markets",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Biosecurity status → Export markets",
+        "Disease-free certification → Market access",
+        "Traceability → Consumer confidence",
+        "Contamination incidents → Market disruption"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "distribution",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Pest free zones → Movement controls",
+        "Disease outbreaks → Transport restrictions",
+        "Quarantine requirements → Logistics planning",
+        "Biosecurity checkpoints → Distribution pathways"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "wholesalers",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Market prices → Wholesale rates",
+        "Economic cycles → Bulk purchasing",
+        "Currency values → Import/export costs",
+        "Inflation → Wholesale pricing"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "wholesalers",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Food safety regulations → Storage standards",
+        "Trade policies → Import/export rules",
+        "Business regulations → Wholesale operations",
+        "Health standards → Product handling"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "wholesalers",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Consumer trends → Product selection",
+        "Cultural preferences → Stock choices",
+        "Dietary changes → Supply adjustments",
+        "Community needs → Distribution patterns"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "wholesalers",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Inventory systems → Stock management",
+        "Logistics tech → Distribution efficiency",
+        "Tracking systems → Product traceability",
+        "Digital platforms → Order processing"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "supermarkets",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Consumer spending → Store performance",
+        "Price competition → Retail strategies",
+        "Economic conditions → Store expansion",
+        "Wage levels → Staffing decisions"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "supermarkets",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Retail regulations → Store operations",
+        "Food labeling laws → Product information",
+        "Competition policy → Market share",
+        "Health regulations → Product standards"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "supermarkets",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Shopping habits → Store layouts",
+        "Health awareness → Product selection",
+        "Convenience needs → Store services",
+        "Price sensitivity → Promotional strategies"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "supermarkets",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Self-checkout → Store efficiency",
+        "Online shopping → Digital presence",
+        "Inventory systems → Stock management",
+        "Customer analytics → Marketing strategies"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "grocers",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Local economy → Store viability",
+        "Rent prices → Location decisions",
+        "Consumer spending → Product range",
+        "Market competition → Pricing strategies"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "grocers",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Local regulations → Store operations",
+        "Zoning laws → Location options",
+        "Health standards → Product handling",
+        "Business licenses → Store setup"
+      ]
+    },
+    {
+      "source": "society",
+      "target": "grocers",
+      "type": "influence",
+      "color": "#c05621",
+      "examples": [
+        "Community values → Product selection",
+        "Local preferences → Store offerings",
+        "Cultural diversity → Product range",
+        "Neighborhood needs → Store services"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "grocers",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Point-of-sale systems → Store operations",
+        "Social media → Local marketing",
+        "Inventory apps → Stock management",
+        "Online ordering → Service expansion"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "wholesalers",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Import controls → Product sourcing",
+        "Pest management → Storage practices",
+        "Disease prevention → Handling procedures",
+        "Quality standards → Product inspection"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "supermarkets",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Food safety → Product handling",
+        "Pest control → Store hygiene",
+        "Quality checks → Product standards",
+        "Disease prevention → Staff training"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "grocers",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Local health standards → Store practices",
+        "Food safety → Product handling",
+        "Quality control → Product standards",
+        "Hygiene regulations → Store maintenance"
+      ]
+    },
+    {
+      "source": "markets",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Farmers markets → Direct purchases",
+        "Community markets → Local shopping",
+        "Seasonal markets → Fresh produce",
+        "Producer stalls → Consumer interaction"
+      ]
+    },
+    {
+      "source": "processing",
+      "target": "exports",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Processed products → Export markets",
+        "Value-added goods → International trade",
+        "Quality processing → Export standards",
+        "Specialty products → Overseas markets"
+      ]
+    },
+    {
+      "source": "imports",
+      "target": "distribution",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Imported goods → Distribution networks",
+        "International products → Local supply chains",
+        "Import volumes → Distribution capacity",
+        "Customs clearance → Distribution timing"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "imports",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Trade policies → Import regulations",
+        "Customs rules → Import procedures",
+        "Health standards → Import requirements",
+        "Tariffs → Import costs"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "exports",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Export policies → Market access",
+        "Trade agreements → Export opportunities",
+        "Quality standards → Export requirements",
+        "Subsidies → Export competitiveness"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "imports",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Exchange rates → Import costs",
+        "Market demand → Import volumes",
+        "Economic conditions → Import capacity",
+        "Trade balance → Import restrictions"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "exports",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Exchange rates → Export competitiveness",
+        "Global markets → Export opportunities",
+        "Economic growth → Export capacity",
+        "Trade conditions → Export volumes"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "imports",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Import controls → Product entry",
+        "Pest management → Import restrictions",
+        "Disease prevention → Import checks",
+        "Quality standards → Import inspection"
+      ]
+    },
+    {
+      "source": "biosecurity",
+      "target": "exports",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Export certification → Market access",
+        "Pest-free status → Export requirements",
+        "Disease control → Export standards",
+        "Quality assurance → Export compliance"
+      ]
+    },
+    {
+      "source": "fertilizer_industry",
+      "target": "inputs",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Synthetic fertilizers → Farm input supply",
+        "Organic compost → Managed inputs",
+        "Nutrient blends → Input selection",
+        "Soil amendments → Input sourcing"
+      ]
+    },
+    {
+      "source": "govt",
+      "target": "fertilizer_industry",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "Regulations → Fertilizer composition",
+        "Subsidies → Fertilizer production",
+        "Environmental standards → Manufacturing practices",
+        "Import/export rules → Fertilizer availability"
+      ]
+    },
+    {
+      "source": "economy",
+      "target": "fertilizer_industry",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Market prices → Fertilizer cost",
+        "Energy prices → Production costs",
+        "Global supply chains → Fertilizer sourcing",
+        "Demand trends → Product development"
+      ]
+    },
+    {
+      "source": "tech",
+      "target": "fertilizer_industry",
+      "type": "influence",
+      "color": "#2c7a7b",
+      "examples": [
+        "Innovation → New fertilizer types",
+        "Process efficiency → Reduced emissions",
+        "Digital platforms → Supply chain management",
+        "Biotechnology → Biofertilizer development"
+      ]
+    },
+    {
+      "source": "environment",
+      "target": "fertilizer_industry",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Resource availability → Raw material sourcing",
+        "Environmental impact → Production methods",
+        "Climate policy → Emissions standards",
+        "Ecosystem health → Fertilizer formulation"
+      ]
+    },
+    {
+      "source": "production",
+      "target": "packhouses",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Fresh produce → Sorting and grading",
+        "Harvested crops → Packing facilities",
+        "Fruit and vegetables → Pre-processing handling",
+        "Bulk produce → Storage and packing"
+      ]
+    },
+    {
+      "source": "packhouses",
+      "target": "processing",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Packed produce → Processing plants",
+        "Sorted goods → Value-added processing",
+        "Graded crops → Food manufacturing",
+        "Pre-packed items → Further processing"
+      ]
+    },
+    {
+      "source": "inputs",
+      "target": "pest_management",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Pesticides → Pest control",
+        "Biological agents → Integrated pest management",
+        "Weed control products → Field application",
+        "Monitoring tools → Pest detection"
+      ]
+    },
+    {
+      "source": "pest_management",
+      "target": "production",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Pest management → Crop protection",
+        "Disease control → Yield improvement",
+        "Weed management → Field productivity",
+        "Biological controls → Sustainable farming"
+      ]
+    },
+    {
+      "source": "production",
+      "target": "packhouses",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Delayed harvest → Spoilage before packing",
+        "Improper handling → Physical damage to produce",
+        "Lack of cold chain → Quality loss",
+        "Labor shortages → Packing bottlenecks"
+      ]
+    },
+    {
+      "source": "packhouses",
+      "target": "processing",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Cross-contamination → Food safety risks",
+        "Improper sorting → Non-compliance with processing standards",
+        "Packaging waste → Environmental impact",
+        "Inventory mismanagement → Product loss"
+      ]
+    },
+    {
+      "source": "processing",
+      "target": "distribution",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Cold chain failure → Spoilage during transport",
+        "Packaging damage → Product returns",
+        "Logistics delays → Missed delivery windows",
+        "Overproduction → Unsold inventory"
+      ]
+    },
+    {
+      "source": "distribution",
+      "target": "wholesalers",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Bulk breakage → Product loss",
+        "Storage issues → Quality degradation",
+        "Mismatched demand → Overstock or shortages",
+        "Traceability gaps → Recall difficulties"
+      ]
+    },
+    {
+      "source": "wholesalers",
+      "target": "supermarkets",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Late deliveries → Empty shelves",
+        "Improper storage → Food spoilage",
+        "Labeling errors → Regulatory fines",
+        "Supply chain disruptions → Stockouts"
+      ]
+    },
+    {
+      "source": "supermarkets",
+      "target": "consumption",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Food waste → Unsold perishables",
+        "Misleading labeling → Consumer mistrust",
+        "Price volatility → Access issues",
+        "Promotional excess → Overconsumption"
+      ]
+    },
+    {
+      "source": "distribution",
+      "target": "markets",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Transport delays → Missed market days",
+        "Improper handling → Damaged goods",
+        "Market oversupply → Price crashes",
+        "Lack of infrastructure → Limited access"
+      ]
+    },
+    {
+      "source": "imports",
+      "target": "processing",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Import delays → Production stoppages",
+        "Non-compliance with standards → Rejected shipments",
+        "Contamination → Food safety recalls",
+        "Currency fluctuations → Cost spikes"
+      ]
+    },
+    {
+      "source": "inputs",
+      "target": "pest_management",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Pesticide resistance → Ineffective control",
+        "Overuse of chemicals → Environmental harm",
+        "Counterfeit products → Crop loss",
+        "Application errors → Residue issues"
+      ]
+    },
+    {
+      "source": "pest_management",
+      "target": "production",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Pest outbreaks → Yield loss",
+        "Non-target effects → Beneficial species decline",
+        "Regulatory bans → Limited options",
+        "Weather impacts → Reduced efficacy"
+      ]
+    },
+    {
+      "source": "fertilizer_industry",
+      "target": "inputs",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Price spikes → Input cost increases",
+        "Supply chain disruptions → Fertilizer shortages",
+        "Contaminated batches → Soil toxicity",
+        "Over-application → Waterway pollution"
+      ]
+    },
+    {
+      "source": "production",
+      "target": "food_loss",
+      "type": "problem",
+      "color": "#2c5282",
+      "examples": [
+        "Harvest timing errors → Field losses",
+        "Weather events → Crop destruction",
+        "Labor shortages → Unharvested produce",
+        "Market gluts → On-farm waste"
+      ]
+    },
+    {
+      "source": "consumption",
+      "target": "health_outcomes",
+      "type": "health_impact",
+      "color": "#2f855a",
+      "examples": [
+        "Dietary patterns → Health status",
+        "Food choices → Disease prevention"
+      ]
+    },
+    {
+      "source": "nutrition_education",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#2f855a",
+      "examples": [
+        "Nutrition programs → Healthier choices",
+        "Dietary guidelines → Better eating habits"
+      ]
+    },
+    {
+      "source": "maternal_child_nutrition",
+      "target": "health_outcomes",
+      "type": "health_impact",
+      "color": "#2f855a",
+      "examples": [
+        "Early nutrition → Long-term health",
+        "Maternal health → Child development"
+      ]
+    },
+    {
+      "source": "health_policy",
+      "target": "markets",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "Food labeling → Consumer information",
+        "Marketing restrictions → Healthier options"
+      ]
+    },
+    {
+      "source": "food_security_policy",
+      "target": "distribution",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "Food access programs → Distribution networks",
+        "Emergency response → Food security"
+      ]
+    },
+    {
+      "source": "local_government",
+      "target": "markets",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "Local food policies → Market development",
+        "Community planning → Food access"
+      ]
+    },
+    {
+      "source": "community_food_distribution",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#c05621",
+      "examples": [
+        "Food banks → Household access",
+        "Community kitchens → Prepared meals"
+      ]
+    },
+    {
+      "source": "school_food_programs",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#6b46c1",
+      "examples": [
+        "School lunches → Child nutrition",
+        "Food education → Family eating habits",
+        "Meal programs → Student health",
+        "Nutrition guidelines → Dietary behavior"
+      ]
+    },
+    {
+      "source": "food_rescue",
+      "target": "community_food_distribution",
+      "type": "flow",
+      "color": "#c05621",
+      "examples": [
+        "Food recovery → Community distribution",
+        "Surplus food → Food banks"
+      ]
+    },
+    {
+      "source": "food_pricing",
+      "target": "markets",
+      "type": "economic_incentive",
+      "color": "#c53030",
+      "examples": [
+        "Subsidies → Affordable healthy food",
+        "Taxes → Reduced unhealthy options"
+      ]
+    },
+    {
+      "source": "economic_access",
+      "target": "consumption",
+      "type": "influence",
+      "color": "#c53030",
+      "examples": [
+        "Income support → Food purchasing power",
+        "Food assistance → Improved access"
+      ]
+    },
+    {
+      "source": "health_monitoring",
+      "target": "health_outcomes",
+      "type": "monitoring",
+      "color": "#2c7a7b",
+      "examples": [
+        "Nutrition surveys → Health data",
+        "Disease tracking → Health trends"
+      ]
+    },
+    {
+      "source": "policy_evaluation",
+      "target": "health_policy",
+      "type": "monitoring",
+      "color": "#2c7a7b",
+      "examples": [
+        "Impact assessment → Policy refinement",
+        "Program evaluation → Improved interventions"
+      ]
+    },
+    {
+      "source": "restaurants",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": [
+        "Food service → Consumer meals",
+        "Menu offerings → Eating choices",
+        "Dining experiences → Food consumption",
+        "Service operations → Food access"
+      ]
+    },
+    {
+      "source": "school_food_programs",
+      "target": "restaurants",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Nutrition standards → Food service requirements",
+        "Program guidelines → Institutional food service",
+        "Education initiatives → Food service training",
+        "Student needs → Menu planning"
+      ]
+    },
+    {
+      "source": "supermarkets",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Supermarkets → Household shopping"]
+    },
+    {
+      "source": "grocers",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Grocers → Community shopping"]
+    },
+    {
+      "source": "wholesalers",
+      "target": "supermarkets",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Wholesalers → Supermarkets"]
+    },
+    {
+      "source": "wholesalers",
+      "target": "grocers",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Wholesalers → Grocers"]
+    },
+    {
+      "source": "markets",
+      "target": "consumption",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Markets → Direct purchases"]
+    },
+    {
+      "source": "imports",
+      "target": "processing",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Imports → Processing inputs"]
+    },
+    {
+      "source": "exports",
+      "target": "distribution",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Exports → Distribution networks"]
+    },
+    {
+      "source": "fertilizer_industry",
+      "target": "inputs",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Fertilizer Industry → Managed Inputs"]
+    },
+    {
+      "source": "packhouses",
+      "target": "processing",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Packhouses → Processing"]
+    },
+    {
+      "source": "pest_management",
+      "target": "production",
+      "type": "flow",
+      "color": "#2c5282",
+      "examples": ["Pest Management → Production"]
+    },
+    {
+      "source": "restaurants",
+      "target": "waste",
+      "type": "waste",
+      "color": "#e74c3c",
+      "examples": [
+        "Unused ingredients → Food waste",
+        "Plate waste → Landfill",
+        "Expired products → Disposal",
+        "Preparation trimmings → Compost"
+      ]
+    },
+    {
+      "source": "food_rescue",
+      "target": "restaurants",
+      "type": "influence",
+      "color": "#2c5282",
+      "examples": [
+        "Surplus recovery → Restaurant donations",
+        "Food rescue logistics → Kitchen waste reduction",
+        "Redistribution networks → Restaurant participation",
+        "Anti-waste programs → Menu planning"
+      ],
+      "isRegenHighlight": true
+    },
+    {
+      "source": "nutrition_education",
+      "target": "restaurants",
+      "type": "influence",
+      "color": "#2f855a",
+      "examples": [
+        "Nutritional guidelines → Menu development",
+        "Dietary awareness → Healthier options",
+        "Allergen education → Menu labeling",
+        "Food literacy → Consumer demand"
+      ]
+    },
+    {
+      "source": "health_policy",
+      "target": "nutrition_education",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "National guidelines → Education programs",
+        "Public health initiatives → Nutrition curricula",
+        "Policy priorities → Educational focus",
+        "Research funding → Evidence-based education"
+      ]
+    },
+    {
+      "source": "policy_evaluation",
+      "target": "food_security_policy",
+      "type": "monitoring",
+      "color": "#2c7a7b",
+      "examples": [
+        "Program assessment → Policy refinement",
+        "Outcome metrics → Strategic adjustments",
+        "Impact evaluation → Resource allocation",
+        "Process analysis → Implementation improvements"
+      ]
+    },
+    {
+      "source": "consumption",
+      "target": "waste",
+      "type": "waste",
+      "color": "#e74c3c",
+      "examples": [
+        "Household food waste → Disposal",
+        "Uneaten meals → Trash",
+        "Expired products → Waste stream",
+        "Excess purchases → Food loss"
+      ]
+    },
+    {
+      "source": "local_government",
+      "target": "community_food_distribution",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "Local funding → Community programs",
+        "Municipal support → Distribution infrastructure",
+        "Zoning allowances → Program locations",
+        "Public health coordination → Service delivery"
+      ]
+    },
+    {
+      "source": "health_monitoring",
+      "target": "maternal_child_nutrition",
+      "type": "monitoring",
+      "color": "#2c7a7b",
+      "examples": [
+        "Nutritional assessments → Program targeting",
+        "Health screening → Intervention design",
+        "Growth monitoring → Service prioritization",
+        "Population data → Resource allocation"
+      ]
+    },
+    {
+      "source": "economic_access",
+      "target": "community_food_distribution",
+      "type": "economic_incentive",
+      "color": "#c53030",
+      "examples": [
+        "Financial support → Access programs",
+        "Income thresholds → Service eligibility",
+        "Economic indicators → Program funding",
+        "Cost-of-living data → Assistance levels"
+      ]
+    },
+    {
+      "source": "food_security_policy",
+      "target": "school_food_programs",
+      "type": "policy_intervention",
+      "color": "#6b46c1",
+      "examples": [
+        "Nutrition policy → School meal standards",
+        "Food access mandates → Program establishment",
+        "Funding legislation → Program sustainability",
+        "Regulatory framework → Implementation guidelines"
+      ]
+    }
+  ]
+}

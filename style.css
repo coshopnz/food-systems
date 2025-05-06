@@ -1,0 +1,582 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0; /* Remove default margin */
+    padding: 0;
+    overflow: hidden;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1,
+p:first-of-type { /* Target only the intro paragraph */
+    text-align: center;
+    color: #2c3e50;
+    margin-left: 20px; /* Add some margin back */
+    margin-right: 20px;
+}
+
+p:first-of-type {
+     color: #555;
+}
+
+/* Legend Styles */
+.legend {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 0.9em;
+}
+.legend span {
+    margin: 0 10px; /* Slightly reduce horizontal margin */
+    display: inline-flex; /* Align items */
+    align-items: center;
+    line-height: 1.8; /* Add line-height for spacing with <br> */
+}
+.legend br {
+    display: block; /* Make <br> take full width */
+    content: ""; /* Required for display: block */
+    margin-top: 2px; /* Add a small space */
+}
+.legend-color {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+.legend-color.subsystem {
+    background-color: #a9dfbf; /* Match node color */
+}
+.legend-color.factor {
+    background-color: #A0AEC0; /* Match node color */
+}
+
+.legend-arrow {
+    display: inline-block;
+    width: 25px; /* Length of the line */
+    height: 1px;
+    margin-right: 5px;
+    border-top-width: 2px; /* Default width */
+    vertical-align: middle; /* Align with text */
+}
+
+.legend-arrow.flow {
+    border-top-style: solid;
+    border-top-color: #555; /* Match link.flow stroke */
+}
+.legend-arrow.influence {
+    border-top-style: dashed;
+    border-top-color: #aaa; /* Match link.influence stroke */
+    border-top-width: 1px; /* Match link.influence width */
+}
+.legend-arrow.waste {
+    border-top-style: dashed;
+    border-top-color: #e74c3c; /* Match link.waste stroke */
+    border-top-width: 1.5px; /* Match link.waste width */
+}
+
+/* Controls Styles */
+.controls {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.controls label {
+    cursor: pointer;
+    font-size: 0.95em;
+    color: #34495e;
+}
+.controls input[type="checkbox"] {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+/* End Controls Styles */
+
+.system-container {
+    flex-grow: 1; /* Allow container to fill space */
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack D3 container and details panel */
+    max-width: 1200px;
+    width: 95%; /* Use percentage width */
+    margin: 20px auto; /* Center container */
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden; /* Prevent content spillover */
+}
+
+#d3-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.details-panel {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 14px 18px 10px 18px;
+    font-size: 15px;
+    z-index: 300;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    max-width: 300px;
+}
+
+.details-panel h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #c7a74f;
+}
+.details-panel h3 i {
+    margin-right: 8px;
+}
+
+/* D3 Styles */
+.links line, .link {
+    stroke-opacity: 0.6;
+    transition: opacity 0.5s ease, stroke-opacity 0.5s ease;
+}
+
+.link.flow {
+    stroke: #23406e;
+    stroke-width: 3px;
+    stroke-dasharray: none;
+    opacity: 0.95;
+    transition: stroke-width 0.3s ease, opacity 0.3s ease;
+}
+
+.link.flow.main-flow {
+    stroke: #1a5276; /* Darker blue for main flow */
+    stroke-width: 4px; /* Thicker for main flow */
+    opacity: 1;
+}
+
+.link.flow:hover {
+    stroke-width: 5px;
+    opacity: 1;
+}
+
+.link.waste {
+    stroke: #e74c3c; /* Red for waste */
+    stroke-width: 1.5px; /* Standard width for waste */
+    stroke-dasharray: 3, 3;
+}
+
+.link.influence {
+    stroke: #aaa;
+    stroke-width: 1px; /* Standard width for influence */
+    stroke-dasharray: 5, 5;
+}
+
+.nodes .node-group {
+    cursor: pointer;
+    transition: opacity 0.5s ease;
+}
+
+.node-circle {
+    fill: var(--node-color, #2c5282); /* Default color if not specified */
+    stroke: #fff;
+    stroke-width: 2px;
+    transition: transform 0.2s ease;
+}
+
+.node-circle.factor {
+    fill: var(--node-color, #aed6f1); /* Light blue */
+}
+
+.node-circle.core_flow {
+    fill: #2c5282;
+    stroke-width: 2.5px;
+}
+
+.node-group:hover .node-circle {
+    transform: scale(1.1);
+}
+
+.node-icon {
+    fill: #fff; /* Changed from #333 to white for better contrast */
+    font-size: 18px;
+    pointer-events: none;
+}
+
+.node-label {
+    font-size: 10px;
+    fill: #fff; /* Changed from #444 to white for better contrast */
+    pointer-events: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5); /* Added shadow for better readability */
+}
+
+/* Style for selected node */
+.node-group.selected .node-circle {
+    stroke: #f39c12; /* Orange highlight */
+    stroke-width: 3px;
+}
+
+svg {
+    display: block; /* Remove extra space below SVG */
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+    margin-top: 0;
+    color: #1a5276;
+    border-bottom: 2px solid #aed6f1;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.item {
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.item:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.factor {
+    border-color: #aed6f1;
+    margin-bottom: 10px; /* Space out factors */
+}
+
+.subsystem {
+    border-color: #a9dfbf;
+}
+
+.arrow {
+    text-align: center;
+    font-size: 1.5em;
+    color: #5dade2;
+    /* Position arrows relative to grid - requires refinement */
+}
+
+/* Specific arrow positioning might need more complex CSS or SVG */
+.waste-arrow {
+    grid-column: 2 / 4; /* Example: Span across columns */
+    color: #e74c3c;
+}
+
+.item.selected {
+    background-color: #aed6f1;
+    border-color: #3498db;
+    font-weight: bold;
+}
+
+/* Regen Highlight Styles */
+.link.regen-highlight {
+    stroke: #27ae60; /* Bright green */
+    /* stroke-width: 3px; REMOVED - Keep width consistent */
+    stroke-opacity: 0.9; /* Make slightly more opaque */
+}
+
+.node-group.regen-modified .node-circle {
+    stroke: #27ae60; /* Bright green outline */
+    stroke-width: 3px;
+}
+/* End Regen Highlight Styles */
+
+/* Remove or comment out the legend-width-text style */
+/*
+.legend-width-text {
+    font-style: italic;
+    color: #555;
+    display: block; 
+    margin-top: 4px;
+}
+*/
+/* End Legend Styles */
+
+/* Specific styles for non-core nodes */
+.non-core-node {
+    /* Default style - will be overridden by the JavaScript toggle */
+    transition: opacity 0.5s ease, transform 0.2s ease;
+}
+
+/* When nodes are hidden */
+.node-group.hidden {
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* When non-core nodes are hidden */
+.non-core-node.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* Category Controls */
+.category-controls {
+    max-width: 900px;
+    margin: 0 auto 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 15px 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.category-controls h4 {
+    margin: 0 0 10px 0;
+    color: #2c3e50;
+    font-size: 16px;
+    text-align: center;
+}
+
+.category-toggles {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 14px 18px 10px 18px;
+    font-size: 15px;
+    z-index: 300;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.category-group {
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    min-width: 170px;
+    transition: transform 0.3s ease;
+}
+
+.category-group:hover {
+    transform: scale(1.02);
+}
+
+.category-group h5 {
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    text-align: center;
+    color: #444;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 6px;
+}
+
+.category-toggle {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 10px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.category-toggle:last-child {
+    margin-bottom: 0;
+}
+
+.category-toggle:hover {
+    background-color: #f5f5f5;
+}
+
+.category-checkbox {
+    margin-right: 5px;
+}
+
+.category-label {
+    font-size: 13px;
+    font-weight: 500;
+    padding-left: 5px;
+    border-left: 4px solid;
+}
+
+/* Colors for each category */
+.category-label.core_flow {
+    border-color: #2c5282;
+}
+
+.category-label.community {
+    border-color: #c05621;
+}
+
+.category-label.policy {
+    border-color: #6b46c1;
+}
+
+.category-label.health {
+    border-color: #2f855a;
+}
+
+.category-label.economic {
+    border-color: #c53030;
+}
+
+.category-label.subsystem {
+    border-color: #a9dfbf;
+}
+
+.category-label.factor {
+    border-color: #A0AEC0;
+}
+
+.category-label.monitoring {
+    border-color: #2c7a7b;
+}
+
+/* Category-specific node styling */
+.node-group.core_flow .node-circle {
+    stroke-width: 2.5px;
+}
+
+.node-group.community .node-circle {
+    fill: var(--node-color, #c05621);
+}
+
+.node-group.policy .node-circle {
+    fill: var(--node-color, #6b46c1);
+}
+
+.node-group.health .node-circle {
+    fill: var(--node-color, #2f855a);
+}
+
+.node-group.economic .node-circle {
+    fill: var(--node-color, #c53030);
+}
+
+.node-group.subsystem .node-circle {
+    fill: var(--node-color, #a9dfbf);
+}
+
+.node-group.factor .node-circle {
+    fill: var(--node-color, #A0AEC0);
+}
+
+.node-group.monitoring .node-circle {
+    fill: var(--node-color, #2c7a7b);
+}
+
+/* Toggle All Categories Control */
+.toggle-all-control {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.all-toggle {
+    display: inline-flex;
+    align-items: center;
+    background-color: #f0f7ff;
+    border: 1px solid #c0d8f0;
+    border-radius: 4px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.all-toggle:hover {
+    background-color: #e0f0ff;
+}
+
+.all-toggle input {
+    margin-right: 8px;
+}
+
+.all-toggle span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #2c5282;
+}
+
+/* Tooltip styling */
+.tooltip {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.95);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 12px;
+    pointer-events: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 1000;
+    max-width: 200px;
+}
+
+/* Link hover effects */
+.link {
+    transition: stroke-width 0.2s ease, stroke-opacity 0.2s ease;
+}
+
+.link:hover {
+    stroke-width: 3px !important;
+    stroke-opacity: 1 !important;
+    cursor: pointer;
+}
+
+/* Overlay elements */
+#diagram-legend {
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 14px 18px 10px 18px;
+    font-size: 15px;
+    z-index: 300;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    min-width: 220px;
+}
+
+/* Animated flow effect */
+.link.flow.animated {
+    animation: flowAnimation 2s linear infinite;
+}
+
+@keyframes flowAnimation {
+    0% {
+        stroke-dasharray: 15, 10;
+        stroke-dashoffset: 20;
+    }
+    100% {
+        stroke-dasharray: 15, 10;
+        stroke-dashoffset: 0;
+    }
+}
+
+/* Path guide styles */
+.path-guide {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #bbb;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-size: 14px;
+    z-index: 300;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    max-width: 250px;
+}
+
+.path-guide h4 {
+    margin: 0 0 8px 0;
+    color: #2c5282;
+    font-size: 15px;
+} 

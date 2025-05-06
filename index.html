@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NZ Food System Model - D3 Visualization</title>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Conceptual Model of the New Zealand Food System (D3.js)</h1>
+    <p>Drag nodes to rearrange. Click on nodes to see details.</p>
+
+    <div class="controls">
+        <label>
+            <input type="checkbox" id="regen-toggle"> Show Circular/Regenerative Focus
+        </label>
+        <label style="margin-left: 20px;">
+            <input type="checkbox" id="noncore-toggle" checked> Show Non-Core Nodes
+        </label>
+    </div>
+
+    <div class="category-controls">
+        <h4>Filter by Category:</h4>
+        <div class="toggle-all-control">
+            <label class="all-toggle">
+                <input type="checkbox" id="toggle-all-categories" checked> 
+                <span>Toggle All Categories</span>
+            </label>
+        </div>
+        <div class="category-toggles">
+            <!-- Core System Categories -->
+            <div class="category-group">
+                <h5>Core System</h5>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="core_flow" checked> 
+                    <span class="category-label core_flow">Core Flow</span>
+                </label>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="subsystem" checked> 
+                    <span class="category-label subsystem">Subsystem</span>
+                </label>
+            </div>
+            
+            <!-- Stakeholder Categories -->
+            <div class="category-group">
+                <h5>Stakeholders</h5>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="community" checked> 
+                    <span class="category-label community">Community</span>
+                </label>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="policy" checked> 
+                    <span class="category-label policy">Policy</span>
+                </label>
+            </div>
+            
+            <!-- Outcome Categories -->
+            <div class="category-group">
+                <h5>Outcomes</h5>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="health" checked> 
+                    <span class="category-label health">Health</span>
+                </label>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="economic" checked> 
+                    <span class="category-label economic">Economic</span>
+                </label>
+            </div>
+            
+            <!-- Additional Categories -->
+            <div class="category-group">
+                <h5>Other Elements</h5>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="factor" checked> 
+                    <span class="category-label factor">Factor</span>
+                </label>
+                <label class="category-toggle">
+                    <input type="checkbox" class="category-checkbox" data-category="monitoring" checked> 
+                    <span class="category-label monitoring">Monitoring</span>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="system-container">
+        <!-- D3.js will render the graph here -->
+        <div id="d3-container"></div>
+
+        <div class="details-panel" id="details-panel">
+            Select an element to see details.
+        </div>
+    </div>
+
+    <!-- D3.js Library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Our script - using defer to ensure D3 loads first -->
+    <script src="script-v2.js" defer></script>
+</body>
+</html> 
